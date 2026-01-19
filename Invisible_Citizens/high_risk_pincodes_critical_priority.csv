@@ -1,0 +1,2 @@
+state,district,pincode,Total_Child_En7rollments,Total_Demo_Updates,UIR,Engagement_Level,is_tribal,is_forest_hilly,is_low_literacy,is_migration_source,is_migration_destination,is_remote_rural,Settlement_Type,Tribal_Forest_Type,Literacy_Category,Migration_Category,Risk_Profile,Intervention_Priority_Score,Priority_Level
+madhya_pradesh,ashoknagar,473101,516,49,0.0949612403100775,High risk / exclusion-prone 🚨,False,False,True,False,False,True,Remote Rural,Normal Rural,Low Literacy,Low Migration,Remote Rural | Low Literacy,70,Critical Priority
