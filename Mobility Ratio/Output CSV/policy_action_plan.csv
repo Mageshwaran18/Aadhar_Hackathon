@@ -1,0 +1,734 @@
+state,district,mobility_ratio,zone_type,Policy_Action
+andaman and nicobar islands,nicobar,1.122511485451761,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+andaman and nicobar islands,south andaman,0.7964774951076321,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+andhra pradesh,alluri sitharama raju,1.976219618814478,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+andhra pradesh,anakapalli,4.9109243697478995,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+andhra pradesh,ananthapuramu,0.6555788920976634,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+andhra pradesh,annamayya,4.8083232602313934,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+andhra pradesh,bapatla,3.1266304347826086,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+andhra pradesh,chittoor,0.8355400407756863,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+andhra pradesh,east godavari,0.6682853029452673,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+andhra pradesh,eluru,4.172508214676889,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+andhra pradesh,guntur,0.8269745185595686,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+andhra pradesh,kakinada,3.832089552238806,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+andhra pradesh,krishna,0.6702818331073854,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+andhra pradesh,kurnool,0.610169840283465,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+andhra pradesh,nandyal,3.5637425055222467,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+andhra pradesh,ntr,0.4447646493756004,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+andhra pradesh,palnadu,3.9874120696038506,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+andhra pradesh,parvathipuram manyam,1.8536814867090097,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+andhra pradesh,prakasam,0.9729376546585232,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+andhra pradesh,sri sathya sai,3.1821209465381246,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+andhra pradesh,srikakulam,0.8897978095367434,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+andhra pradesh,tirupati,5.609381158849034,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+andhra pradesh,visakhapatnam,0.7028599797324271,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+andhra pradesh,vizianagaram,0.8544861214358612,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+andhra pradesh,west godavari,0.804029147021003,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+arunachal pradesh,anjaw,1.5452322738386308,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+arunachal pradesh,changlang,1.3606243154435926,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+arunachal pradesh,dibang valley,0.6,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+arunachal pradesh,east kameng,0.7847222222222222,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+arunachal pradesh,east siang,1.3,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+arunachal pradesh,kamle,12.7,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+arunachal pradesh,kra daadi,1.2098360655737705,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+arunachal pradesh,kurung kumey,0.3243626062322946,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+arunachal pradesh,leparada,0.42857142857142855,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+arunachal pradesh,lohit,1.3748960931005818,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+arunachal pradesh,longding,1.4530321046373365,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+arunachal pradesh,lower dibang valley,1.067032967032967,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+arunachal pradesh,lower siang,0.7729885057471264,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+arunachal pradesh,lower subansiri,1.743083003952569,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+arunachal pradesh,namsai,0.953662182361734,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+arunachal pradesh,pakke kessang,3.8421052631578947,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+arunachal pradesh,papum pare,1.498376037531577,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+arunachal pradesh,shi yomi,1.5853658536585367,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+arunachal pradesh,siang,1.129455909943715,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+arunachal pradesh,tawang,0.5349675558759913,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+arunachal pradesh,tirap,0.9254658385093167,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+arunachal pradesh,upper siang,1.2439024390243902,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+arunachal pradesh,upper subansiri,0.9224865694551037,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+arunachal pradesh,west kameng,0.7757449032932566,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+arunachal pradesh,west siang,1.3025354533734421,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,bajali,112.42857142857143,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+assam,baksa,2.5898495619110595,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,barpeta,1.2523757774746236,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,biswanath,3.248564135290364,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,bongaigaon,1.7206977750012014,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,cachar,2.0228106373223294,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,charaideo,2.615032866533295,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,chirang,1.242451967063129,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,darrang,3.0607721349409327,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,dhemaji,2.5636454933467236,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,dhubri,2.5908562981733714,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,dibrugarh,3.4927721088435373,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,dima hasao,1.8049645390070923,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,goalpara,3.0038955656858684,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,golaghat,3.147887323943662,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,hailakandi,1.8950457620374055,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,hojai,2.162439898180447,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,jorhat,2.6212850268893293,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,kamrup,2.4577954910475284,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,kamrup metro,3.172977281785572,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,karbi anglong,1.6335212711430036,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,kokrajhar,1.7013370519235502,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,lakhimpur,3.0889947594092426,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,majuli,2.819038642789821,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,marigaon,3.2984561167981203,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,nagaon,2.9387230163123106,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,nalbari,1.677000977169761,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,sonitpur,4.045445445445446,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,tinsukia,5.085500152951973,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+assam,udalguri,2.4562808703777868,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+assam,west karbi anglong,1.7069645203679369,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,araria,4.430803706619829,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,arwal,4.686731510368875,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,aurangabad,4.356014525646845,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,banka,4.227194331795087,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,begusarai,3.4566190269958135,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,bhagalpur,2.809678068410463,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,bhojpur,6.929564118761845,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+bihar,buxar,5.892463640370207,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+bihar,darbhanga,2.7137245132607695,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,gaya,4.5530582549498515,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,gopalganj,4.805599214145383,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,jamui,2.466193455245428,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,jehanabad,5.594987335021997,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+bihar,katihar,2.5538137327733894,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,khagaria,3.529527355465922,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,kishanganj,3.749905420742582,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,lakhisarai,4.010922112802149,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,madhepura,3.882433293871232,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,madhubani,3.283730197487938,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,munger,5.119190331138842,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+bihar,muzaffarpur,4.661297014961802,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,nalanda,5.91271037427782,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+bihar,nawada,4.472950957811359,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,pashchim champaran,6.335511537676128,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+bihar,patna,5.73386681762042,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+bihar,purbi champaran,5.227861868938638,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+bihar,purnia,3.487174906204538,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,rohtas,4.346432767491796,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,saharsa,3.7199601791936288,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,samastipur,4.631525583005663,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,saran,5.158593386120168,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+bihar,sheikhpura,2.870310943897311,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,sheohar,4.661308471306864,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,sitamarhi,3.1585260493058205,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,siwan,4.5445122931062185,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,supaul,4.54188706541887,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+bihar,vaishali,4.340095212104672,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chandigarh,chandigarh,1.4283564179225903,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,balod,2.012890246628418,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,bastar,2.533654020036891,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,bemetara,1.9576807012501796,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,bijapur,1.941953367030817,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,bilaspur,2.193260251725538,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,dakshin bastar dantewada,0.7715425863574011,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+chhattisgarh,dhamtari,1.8116950922380786,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,durg,0.9063733630992894,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+chhattisgarh,gariyaband,2.0730111172435546,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,jashpur,2.060196357145218,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,kabeerdham,2.21058284954349,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,kondagaon,4.037389055838982,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,korba,2.3481524249422634,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,korea,1.8984778121775026,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,mahasamund,4.159744408945687,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,mungeli,2.4304862502276454,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,narayanpur,2.7430063409175682,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,raigarh,2.329740352548833,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,raipur,2.020857745488634,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,rajnandgaon,2.5683961385068397,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,sakti,35.01204819277108,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+chhattisgarh,sukma,1.2215458201978475,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,surajpur,2.003263403263403,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,surguja,3.5255930913542666,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+chhattisgarh,uttar bastar kanker,1.7417395639758873,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+dadra and nagar haveli and daman and diu,dadra and nagar haveli,0.8481908757210278,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+dadra and nagar haveli and daman and diu,daman,1.8166877370417194,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+dadra and nagar haveli and daman and diu,diu,0.8456678700361011,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+delhi,central,2.144951923076923,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+delhi,east,3.0113505480215492,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+delhi,new delhi,2.4201101928374658,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+delhi,north,3.0255040361892136,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+delhi,north east,1.5968721759212772,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+delhi,north west,2.0531008564412767,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+delhi,shahdara,10.753943217665615,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+delhi,south,1.998303366369411,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+delhi,south east,24.302325581395348,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+delhi,south west,2.2482960516438975,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+delhi,west,2.898728307454507,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+goa,north goa,1.5544186888808402,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+goa,south goa,1.6525557306912857,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,ahmedabad,1.4599460593347318,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,amreli,1.8809453032104637,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,anand,1.7066347305389222,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,arvalli,0.8341295116772823,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+gujarat,banas kantha,1.2333632925139497,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,bharuch,1.5172157279489904,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,bhavnagar,1.3988445607150644,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,botad,1.4157355679702048,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,chhotaudepur,1.2563025210084033,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,dahod,1.5007287719152127,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,dangs,0.7242798353909465,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+gujarat,devbhumi dwarka,0.728435718809373,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+gujarat,gandhinagar,1.7115801347700894,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,gir somnath,0.6782457361642882,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+gujarat,jamnagar,1.6804707404861083,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,junagadh,2.2035209905204103,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,kachchh,0.8764453548262605,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+gujarat,kheda,2.2727627217781246,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,mahesana,1.2969659185369908,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,mahisagar,0.822699463104008,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+gujarat,morbi,0.9247199072796511,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+gujarat,narmada,0.9228880534029004,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+gujarat,navsari,2.1954867018894957,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,panch mahals,1.4906807334840493,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,patan,1.212491980570067,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,porbandar,2.571084820533387,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,rajkot,1.6023791858959042,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,sabar kantha,2.7225101554839615,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,surat,2.3221661180300948,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,surendranagar,1.1056977957880518,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,tapi,1.129585798816568,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,vadodara,1.9345696974961455,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+gujarat,valsad,1.1842703349282298,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,ambala,1.1012334536702768,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,bhiwani,0.7995563302170813,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+haryana,charkhi dadri,3.875139768915393,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,faridabad,2.3873883039150856,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,fatehabad,1.2515653775322284,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,gurugram,2.9986097713215685,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,hisar,1.0603293076288351,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,jhajjar,1.2533829647470986,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,jind,1.1207638052640634,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,kaithal,1.016829927622591,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,karnal,1.3046414803392443,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,kurukshetra,1.1704144211113177,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,mahendragarh,1.2403667934835625,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,nuh,1.5757662860278554,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,palwal,2.0152524658697497,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,panchkula,1.5844077797202798,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,panipat,2.0735887096774195,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,rewari,1.5143268769009124,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,rohtak,0.8707443290144352,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+haryana,sirsa,1.2348005806657973,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,sonipat,1.528259927797834,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+haryana,yamunanagar,1.3890914480509857,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+himachal pradesh,bilaspur,0.7083130772970345,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+himachal pradesh,chamba,1.2893633847370503,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+himachal pradesh,hamirpur,0.7381880733944954,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+himachal pradesh,kangra,0.9788369998713495,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+himachal pradesh,kinnaur,0.8243785084202085,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+himachal pradesh,kullu,1.140391410709432,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+himachal pradesh,lahaul and spiti,0.8690909090909091,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+himachal pradesh,mandi,0.7485580004272592,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+himachal pradesh,shimla,1.018164505969384,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+himachal pradesh,sirmaur,1.0987169416077507,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+himachal pradesh,solan,0.7562671367019194,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+himachal pradesh,una,0.7312143720849887,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+jammu and kashmir,anantnag,1.1250881294296635,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jammu and kashmir,bandipora,1.5502565298507462,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jammu and kashmir,baramulla,1.1085608157830185,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jammu and kashmir,budgam,1.039043309631545,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jammu and kashmir,doda,0.6751709626512362,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+jammu and kashmir,ganderbal,1.0334128878281623,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jammu and kashmir,jammu,0.8629079177024382,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+jammu and kashmir,kathua,0.9375877280930419,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+jammu and kashmir,kishtwar,0.6172544080604534,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+jammu and kashmir,kulgam,0.9426620521934337,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+jammu and kashmir,kupwara,1.509343342616136,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jammu and kashmir,poonch,0.7963776746478295,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+jammu and kashmir,pulwama,0.8771375825884182,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+jammu and kashmir,rajouri,0.5913074111585714,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+jammu and kashmir,ramban,0.3463933270676692,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+jammu and kashmir,reasi,1.20506454816286,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jammu and kashmir,samba,0.7247499193288157,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+jammu and kashmir,shopian,1.0301117047110249,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jammu and kashmir,srinagar,1.177497480576054,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jammu and kashmir,udhampur,0.9724651162790697,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+jharkhand,bokaro,3.2408277076606984,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,chatra,2.527547566242559,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,deoghar,3.4347532945142505,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,dhanbad,4.5399163403346385,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,dumka,2.9886125584143524,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,garhwa,1.9347231205532613,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,giridih,4.606285759694851,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,godda,2.4191767293621225,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,gumla,2.5501988956836668,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,hazaribagh,3.679054408218891,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,jamtara,3.8228975955083606,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,khunti,2.83964807719597,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,koderma,2.7766190998902305,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,latehar,3.2418562329390355,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,lohardaga,2.500471549827098,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,pakur,5.035152838427948,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+jharkhand,palamu,3.768268895855103,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,ramgarh,4.084825287072478,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,ranchi,1.9489994072075387,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,sahebganj,3.4583129118335783,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+jharkhand,simdega,2.8445353594389244,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,bagalkote,1.116195667766461,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,ballari,0.8021071665805595,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+karnataka,belagavi,0.9494298769192772,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+karnataka,bengaluru rural,2.269636576787808,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,bengaluru south,0.4432234432234432,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+karnataka,bengaluru urban,1.599946899220848,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,bidar,1.0471280454714234,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,chamarajanagar,1.3847632360650008,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,chikkaballapura,1.9606521206177985,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,chikkamagaluru,1.5144848954298993,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,chitradurga,1.3851530732264676,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,dakshina kannada,1.363401555349673,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,davanagere,0.7699191189124075,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+karnataka,dharwad,1.1701565029681598,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,gadag,1.2031293814143906,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,hassan,1.4100445663352759,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,haveri,1.2783358906806404,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,kalaburagi,0.7985153285550805,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+karnataka,kodagu,3.3640208197787898,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,kolar,1.3086112969511612,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,koppal,1.112647225546388,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,mandya,1.312475046277812,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,mysuru,1.20603258985323,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,raichur,0.7569829810137154,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+karnataka,shivamogga,1.3732078319234282,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,tumakuru,1.0170927403866672,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,udupi,2.5320942295223685,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,uttara kannada,1.729456301807976,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,vijayanagara,3.518952062430323,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,vijayapura,1.0646306818181819,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+karnataka,yadgir,0.8435388387251092,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+kerala,alappuzha,2.247896397580857,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+kerala,ernakulam,2.3040347468282087,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+kerala,idukki,1.5099480968858132,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+kerala,kannur,2.6752192761367075,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+kerala,kasaragod,2.063522761083011,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+kerala,kollam,2.2645606187680554,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+kerala,kottayam,2.0501913453046807,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+kerala,kozhikode,2.787736338183955,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+kerala,malappuram,3.4651366545790845,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+kerala,palakkad,1.7747237941255727,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+kerala,pathanamthitta,2.138054683998207,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+kerala,thiruvananthapuram,2.3676365370856187,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+kerala,thrissur,2.269607016360263,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+kerala,wayanad,3.185761524995137,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+ladakh,kargil,0.6767600302800908,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+ladakh,leh,1.2669950738916256,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+lakshadweep,lakshadweep,1.0545073375262055,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,alirajpur,1.9431716750966974,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,anuppur,0.6984841381465854,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,ashoknagar,0.8681252509032517,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,balaghat,0.9111862914981984,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,barwani,0.8976392050540962,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,betul,0.5361310721471687,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,bhind,1.085781202118811,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,bhopal,0.8925954793452845,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,burhanpur,0.5439630129700094,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,chhatarpur,0.7600540685464051,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,chhindwara,1.1435810010891698,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,damoh,0.6469017094017094,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,datia,1.7317424284369636,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,dewas,0.9070569853738987,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,dhar,0.9678201624388929,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,dindori,1.160942861405341,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,guna,0.5891745803476234,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,gwalior,1.0079236577782236,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,harda,0.6118104298393178,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,indore,1.5014457366831588,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,jabalpur,1.0072925163442457,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,jhabua,1.6595246509984096,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,katni,1.033807675722294,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,maihar,28.145631067961165,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+madhya pradesh,mandla,1.334574087329993,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,mandsaur,0.9355600970749777,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,mauganj,63.765957446808514,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+madhya pradesh,morena,1.009198979537828,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,narmadapuram,0.5342200149670046,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,narsimhapur,0.7594028468927208,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,neemuch,0.9106077981651376,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,niwari,3.4682713347921226,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,pandhurna,12.274193548387096,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+madhya pradesh,panna,0.8847556698620529,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,raisen,0.5420050592464386,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,rajgarh,0.5104506091296052,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,ratlam,0.8177392926768009,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,rewa,0.6153486547178789,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,sagar,0.6912401967300279,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,satna,0.7796227898651934,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,sehore,0.42385274377489585,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,seoni,1.3852746821363924,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,shahdol,1.0566345179900472,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,shajapur,0.509504695546804,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,sheopur,1.1856753600622811,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,shivpuri,1.338619970452768,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,sidhi,0.9571903160993853,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,singrauli,0.7366004238719783,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,tikamgarh,0.7703313387514513,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,ujjain,0.7643370721886684,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+madhya pradesh,umaria,1.504496142020073,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+madhya pradesh,vidisha,0.5958958751920577,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+maharashtra,ahilyanagar,1.925513052183282,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,akola,1.5666569621258237,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,amravati,0.9391343271152565,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+maharashtra,beed,1.518525628719524,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,bhandara,1.531788975312817,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,buldhana,1.788266235079911,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,chandrapur,1.6566243967787606,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,chhatrapati sambhajinagar,1.497118633434607,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,dharashiv,2.6456909342998225,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,dhule,1.1281877505179791,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,gadchiroli,1.3041123578036329,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,gondia,2.0059773623298995,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,hingoli,3.407728907129626,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,jalgaon,1.0493961874491942,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,jalna,1.7733010507510403,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,kolhapur,1.5281899109792285,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,latur,2.0685899984442795,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,mumbai,1.184610082909327,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,mumbai suburban,1.7700244420403093,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,nagpur,1.2924626945025344,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,nanded,2.4954297949113675,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,nandurbar,0.5758825543826214,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+maharashtra,nashik,1.1600958910292738,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,palghar,1.4861572827015308,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,parbhani,2.3834637487541617,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,pune,1.4316091731015483,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,raigad,1.5444486837085083,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,ratnagiri,1.1866016306140723,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,sangli,1.2277247414478918,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,satara,1.3887628531864118,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,sindhudurg,1.7330878077146734,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,solapur,2.212533147962205,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,thane,2.026466630852107,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,wardha,0.8670709821152299,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+maharashtra,washim,1.661593637922969,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+maharashtra,yavatmal,2.4416832847573757,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+manipur,bishnupur,3.274600355239787,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+manipur,chandel,2.749289772727273,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+manipur,churachandpur,2.3546412300683373,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+manipur,imphal east,2.697863342977966,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+manipur,imphal west,2.4826566152965315,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+manipur,jiribam,8.588832487309645,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+manipur,kakching,4.325396825396825,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+manipur,pherzawl,20.0,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+manipur,senapati,3.1001794258373208,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+manipur,tamenglong,3.2285938727415555,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+manipur,thoubal,2.8055344133956726,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+manipur,ukhrul,3.946773713945882,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+meghalaya,east garo hills,15.952879581151832,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+meghalaya,east jaintia hills,2.2425855513307984,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+meghalaya,east khasi hills,2.8968,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+meghalaya,eastern west khasi hills,70.33333333333333,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+meghalaya,north garo hills,8.410138248847927,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+meghalaya,ri bhoi,3.8847780126849893,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+meghalaya,south garo hills,10.725714285714286,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+meghalaya,south west garo hills,4.323852617970265,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+meghalaya,south west khasi hills,3.8687440982058545,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+meghalaya,west garo hills,4.116999106877047,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+meghalaya,west jaintia hills,2.59778305621536,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+meghalaya,west khasi hills,5.98635477582846,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+mizoram,aizawl,0.6030153421457769,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+mizoram,champhai,0.7151699029126214,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+mizoram,hnahthial,3.909090909090909,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+mizoram,khawzawl,1.8571428571428572,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+mizoram,kolasib,0.43364155561599127,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+mizoram,lawngtlai,0.5094795775543962,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+mizoram,lunglei,1.173283160865475,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+mizoram,mamit,0.34204900509784575,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+mizoram,saitual,6.333333333333333,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+mizoram,serchhip,0.46083580726193196,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+nagaland,chumoukedima,10.422018348623853,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+nagaland,dimapur,1.1151643050949653,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+nagaland,kiphire,1.8876529477196886,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+nagaland,kohima,1.5129740518962076,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+nagaland,longleng,2.752,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+nagaland,meluri,0.546583850931677,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+nagaland,mokokchung,1.8035971223021583,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+nagaland,mon,1.1054913294797688,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+nagaland,niuland,4.328767123287672,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+nagaland,noklak,3.701923076923077,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+nagaland,peren,1.3023041474654378,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+nagaland,phek,1.2809756097560976,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+nagaland,shamator,20.105263157894736,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+nagaland,tseminyu,3.8181818181818183,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+nagaland,tuensang,2.4323453608247423,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+nagaland,wokha,1.5929919137466306,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+nagaland,zunheboto,2.2865979381443298,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,angul,1.479431929480901,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,balangir,1.1992038267681147,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,balasore,1.1623474084450671,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,bargarh,1.2565396037590009,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,bhadrak,1.3401591431911604,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,boudh,1.041759270090069,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,cuttack,1.383989606854527,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,deogarh,1.4546023794614904,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,dhenkanal,1.2142755106899672,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,gajapati,1.0885460439428503,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,ganjam,1.6944110399211434,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,jagatsinghapur,0.9665724796076132,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+odisha,jajpur,1.6442702657389554,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,jharsuguda,1.8296414147595152,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,kalahandi,1.8150474292892105,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,kandhamal,1.4082590091251224,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,kendrapara,1.4852884326274645,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,keonjhar,1.8400077911959485,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,khordha,1.433719020069995,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,koraput,1.5087754771918473,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,malkangiri,0.9748704948749035,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+odisha,mayurbhanj,1.503994349456866,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,nabarangpur,1.7460413280705829,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,nayagarh,1.2411702851487598,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,nuapada,1.2473900664346727,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,puri,1.3118528610354223,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,rayagada,1.92253136933988,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,sambalpur,1.8006626546757725,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,sonepur,1.6070860294897635,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+odisha,sundargarh,1.8896739593087597,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+puducherry,karaikal,1.2623661397246302,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+puducherry,puducherry,1.260790273556231,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,amritsar,1.8917330067360685,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,barnala,1.3770263016639828,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,bathinda,1.0920203735144312,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,faridkot,1.4476507969580164,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,fatehgarh sahib,1.1640151821044982,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,fazilka,1.238338070556763,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,ferozepur,1.3700381439409817,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,gurdaspur,1.672397040137529,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,hoshiarpur,1.2827775644622974,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,jalandhar,1.4118613245732388,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,kapurthala,1.3998290415642698,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,ludhiana,1.3785279536641633,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,malerkotla,3.623292965730482,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,mansa,1.096466518408698,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,moga,1.2892290249433107,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,pathankot,1.1293353835639843,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,patiala,1.4854928783220853,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,rupnagar,1.0990047598442232,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,sangrur,1.4108070661586423,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,sri muktsar sahib,1.3717009650040692,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+punjab,tarn taran,1.3394715364211385,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,ajmer,1.4272591381226762,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,alwar,1.125319759853824,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,balotra,401.0,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+rajasthan,banswara,2.585915038826343,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,baran,1.7635521988061884,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,barmer,0.932991202346041,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+rajasthan,beawar,143.33333333333334,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+rajasthan,bharatpur,1.42655663915979,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,bhilwara,2.094768449012588,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,bikaner,1.1674568861601762,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,bundi,1.5145879542740146,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,chittorgarh,1.9493890632302864,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,churu,1.0089700060788471,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,dausa,0.9277052825913649,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+rajasthan,deeg,147.75,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+rajasthan,dholpur,1.5513467447128215,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,dungarpur,2.7939929979730973,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,ganganagar,1.3820714797213722,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,hanumangarh,1.6262976578576218,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,jaipur,1.552781533096643,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,jaisalmer,0.913570887035633,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+rajasthan,jalore,1.92407368069675,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,jhalawar,1.9747032445265102,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,jhunjhunu,1.351423090063336,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,jodhpur,1.1186974881372165,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,karauli,1.5525988409139182,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,kota,1.9996904909290034,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,nagaur,0.9938819308754284,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+rajasthan,pali,0.8643461980341262,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+rajasthan,phalodi,147.0,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+rajasthan,pratapgarh,1.5470727441094763,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,rajsamand,1.3396832393967064,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,salumbar,112.0,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+rajasthan,sawai madhopur,1.0419472574924176,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,sikar,1.0285548909897744,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,sirohi,1.213975778770805,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,tonk,1.4229969659512305,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+rajasthan,udaipur,1.2438438375423613,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+sikkim,gangtok,3.125,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+sikkim,gyalshing,2.4815695600475625,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+sikkim,mangan,3.3836978131212723,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+sikkim,namchi,10.029296875,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+tamil nadu,ariyalur,0.9480022169597421,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+tamil nadu,chengalpattu,6.224015493867011,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+tamil nadu,chennai,1.4010547571480743,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,coimbatore,1.5598780925062747,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,cuddalore,1.2774913777455073,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,dharmapuri,0.7453332170272157,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+tamil nadu,dindigul,1.257921452009844,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,erode,1.151206536196086,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,kallakurichi,5.29936672423719,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+tamil nadu,kancheepuram,1.105727352906411,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,kanniyakumari,1.4940392920138679,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,karur,1.1843837255684084,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,krishnagiri,0.9645711143695015,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+tamil nadu,madurai,0.9848890236901112,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+tamil nadu,mayiladuthurai,1.060257278266757,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,nagapattinam,1.6659983373270086,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,namakkal,1.0359997748254897,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,perambalur,0.8735063282189068,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+tamil nadu,pudukkottai,1.4449148434217756,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,ramanathapuram,1.2522297808012093,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,ranipet,3.133159268929504,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,salem,1.2558589431793057,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,sivaganga,0.8936189946206641,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+tamil nadu,tenkasi,1.2431735436893203,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,thanjavur,1.2192659349699904,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,the nilgiris,0.8902202521124809,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+tamil nadu,theni,1.2410380470639983,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,thiruvallur,1.0397084575701643,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,thiruvarur,1.2240083741448278,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,thoothukkudi,0.7385047385047385,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+tamil nadu,tiruchirappalli,1.086711142852166,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,tirunelveli,0.8370814656888558,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+tamil nadu,tirupathur,1.2552899984776982,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,tiruppur,1.1432578142042444,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tamil nadu,tiruvannamalai,0.8067199031365314,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+tamil nadu,vellore,0.9213294818301773,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+tamil nadu,viluppuram,0.7962332223231405,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+tamil nadu,virudhunagar,0.8919691445114242,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+telangana,adilabad,1.2601872406138404,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,bhadradri kothagudem,3.299367533380183,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,hanumakonda,17.516427104722794,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+telangana,hyderabad,1.3746149185189909,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,jogulamba gadwal,4.790860215053764,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,kamareddy,2.7625214748248976,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,karimnagar,1.6836907388761542,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,khammam,1.6652016843461654,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,kumuram bheem asifabad,6.044065206316862,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+telangana,mahabubabad,4.579828231667034,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,mancherial,4.669318843392198,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,medak,1.2688567732726705,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,medchal malkajgiri,4.742608356618364,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,mulugu,8.046511627906977,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+telangana,nagarkurnool,3.4218411196530654,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,nalgonda,1.6560759560812603,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,narayanpet,8.041363890441588,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+telangana,nirmal,5.342867553288395,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+telangana,nizamabad,0.9093394624964322,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+telangana,peddapalli,5.977438619774386,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+telangana,rajanna sircilla,3.214191419141914,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,ranga reddy,1.3767305760579989,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,sangareddy,2.364242470687409,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,siddipet,3.237894520407114,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,suryapet,5.9580864286746635,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+telangana,vikarabad,6.986075435987562,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+telangana,wanaparthy,7.58044733044733,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+telangana,warangal,1.3909641636816823,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+telangana,yadadri bhuvanagiri,6.737592592592593,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+tripura,dhalai,1.4652151898734178,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tripura,gomati,1.2345679012345678,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tripura,khowai,0.7909738717339667,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+tripura,north tripura,1.0798630030357281,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tripura,sepahijala,2.181664878123563,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tripura,south tripura,2.233394175065471,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+tripura,unakoti,0.5391871034127936,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+tripura,west tripura,2.0965436258743044,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,agra,1.356826523754545,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,aligarh,1.5412414889197927,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,ambedkar nagar,2.209173354211522,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,amethi,2.3273966133711124,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,amroha,1.735426567331438,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,auraiya,2.213922715504842,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,ayodhya,2.211201429724432,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,azamgarh,2.7268135287226074,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,baghpat,1.9408113067582868,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,bahraich,1.555541067400347,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,ballia,2.2481395632548495,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,balrampur,1.8207252070769,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,banda,1.9757306969724968,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,bareilly,1.3239341819012247,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,basti,2.1132317294029144,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,bhadohi,2.038832746678778,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,bijnor,1.4647129144790654,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,budaun,3.013787806048968,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,bulandshahr,1.1690527525160213,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,chandauli,2.6315789473684212,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,chitrakoot,1.8258485052820859,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,deoria,2.459149206349206,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,etah,2.1279984721161194,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,etawah,1.3832680456099204,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,farrukhabad,2.193781137261639,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,fatehpur,2.76881872803537,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,firozabad,2.055702362153975,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,gautam buddha nagar,3.1521783595827366,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,ghaziabad,2.120006577292864,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,ghazipur,2.436207688773166,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,gonda,2.098756414236409,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,gorakhpur,3.143456806662648,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,hamirpur,2.0694466299501704,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,hapur,1.524284126193123,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,hardoi,1.2748615319296757,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,hathras,1.8766516799945088,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,jalaun,2.3750105636778502,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,jaunpur,2.237877746128409,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,jhansi,1.5052712896482778,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,kannauj,2.1108300395256916,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,kanpur dehat,2.5331013177961132,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,kanpur nagar,1.8444627709707824,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,kasganj,1.7290610346536541,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,kaushambi,1.5499659168370825,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,kushinagar,2.4736964695704255,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,lalitpur,1.9096353235609582,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,lucknow,1.5641033923077545,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,mahoba,1.7350447342260686,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,mahrajganj,2.920925341745531,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,mainpuri,2.4608311159805916,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,mathura,1.6348695187879596,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,mau,2.9042119819112755,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,meerut,1.5560628454576744,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,mirzapur,1.80480404551201,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,moradabad,1.7626975368070068,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,muzaffarnagar,1.0867952065694264,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,pilibhit,1.439087723329695,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,pratapgarh,2.366582227684282,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,prayagraj,1.7470823095823096,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,rae bareli,2.15250626015903,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,rampur,1.951288656281092,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,saharanpur,1.3457640117479934,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,sambhal,2.19105106831465,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,sant kabir nagar,2.4006310207095627,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,shahjahanpur,1.5148399288572698,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,shamli,1.1350185059169142,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,siddharthnagar,2.258715792855995,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,sitapur,1.6475421863536317,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,sonbhadra,1.7615291098203432,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,sultanpur,1.9822658495580021,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,unnao,1.9338740489995643,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttar pradesh,varanasi,2.7460471488098634,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttarakhand,almora,1.2704328018223234,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttarakhand,bageshwar,1.218045112781955,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttarakhand,chamoli,1.207579378627518,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttarakhand,champawat,1.1480870372280088,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttarakhand,dehradun,1.1410825604378896,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttarakhand,haridwar,0.831834674238839,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+uttarakhand,nainital,1.214955647211707,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttarakhand,pauri garhwal,0.9145391911660611,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+uttarakhand,pithoragarh,1.2731141199226306,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttarakhand,rudraprayag,0.8646913580246913,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+uttarakhand,tehri garhwal,1.081764238658132,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttarakhand,udham singh nagar,1.3309808118986297,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+uttarakhand,uttarkashi,0.7948576168095106,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+west bengal,alipurduar,4.95495023572551,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+west bengal,bankura,3.8818807992258213,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+west bengal,birbhum,2.941592660242279,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+west bengal,cooch behar,10.455235378031384,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+west bengal,dakshin dinajpur,4.548434856175973,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+west bengal,darjeeling,7.964016172506739,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+west bengal,hooghly,3.8631036931818183,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+west bengal,howrah,6.722969107551488,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+west bengal,jalpaiguri,11.733547456738332,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+west bengal,jhargram,5.997198879551821,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+west bengal,kalimpong,6.955271565495208,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+west bengal,kolkata,7.095868680598662,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+west bengal,malda,4.807199234632863,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+west bengal,murshidabad,3.7741864044558127,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+west bengal,nadia,7.059559192496237,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+west bengal,north 24 parganas,4.210719435759056,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+west bengal,paschim bardhaman,87.80777728678746,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"
+west bengal,paschim medinipur,4.471955346376755,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+west bengal,purba bardhaman,0.37900779149141556,Residential Anchor (Family),"PRIORITY: Schools, Pediatric Wards, Parks"
+west bengal,purba medinipur,1.931948213293229,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+west bengal,purulia,4.0216917990484635,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+west bengal,south 24 parganas,3.7453471676645083,Mixed Use Zone,MAINTAIN: Standard Urban Infrastructure
+west bengal,uttar dinajpur,7.819181243926142,Labor Magnet (Industrial),"PRIORITY: Rental Housing, Night Clinics, Transport Hubs"

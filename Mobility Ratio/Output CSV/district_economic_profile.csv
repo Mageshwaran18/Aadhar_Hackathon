@@ -1,0 +1,734 @@
+state,district,labor_signal,family_signal,mobility_ratio,zone_type
+andaman and nicobar islands,nicobar,733,652,1.122511485451761,Mixed Use Zone
+andaman and nicobar islands,south andaman,3256,4087,0.7964774951076321,Residential Anchor (Family)
+andhra pradesh,alluri sitharama raju,11302,5718,1.976219618814478,Mixed Use Zone
+andhra pradesh,anakapalli,11688,2379,4.9109243697478995,Mixed Use Zone
+andhra pradesh,ananthapuramu,124855,190449,0.6555788920976634,Residential Anchor (Family)
+andhra pradesh,annamayya,27845,5790,4.8083232602313934,Mixed Use Zone
+andhra pradesh,bapatla,11506,3679,3.1266304347826086,Mixed Use Zone
+andhra pradesh,chittoor,140979,168727,0.8355400407756863,Residential Anchor (Family)
+andhra pradesh,east godavari,136935,204904,0.6682853029452673,Residential Anchor (Family)
+andhra pradesh,eluru,15238,3651,4.172508214676889,Mixed Use Zone
+andhra pradesh,guntur,155195,187665,0.8269745185595686,Residential Anchor (Family)
+andhra pradesh,kakinada,24648,6431,3.832089552238806,Mixed Use Zone
+andhra pradesh,krishna,98390,146788,0.6702818331073854,Residential Anchor (Family)
+andhra pradesh,kurnool,148267,242992,0.610169840283465,Residential Anchor (Family)
+andhra pradesh,nandyal,22587,6337,3.5637425055222467,Mixed Use Zone
+andhra pradesh,ntr,463,1040,0.4447646493756004,Residential Anchor (Family)
+andhra pradesh,palnadu,21540,5401,3.9874120696038506,Mixed Use Zone
+andhra pradesh,parvathipuram manyam,7880,4250,1.8536814867090097,Mixed Use Zone
+andhra pradesh,prakasam,104979,107898,0.9729376546585232,Residential Anchor (Family)
+andhra pradesh,sri sathya sai,18154,5704,3.1821209465381246,Mixed Use Zone
+andhra pradesh,srikakulam,111384,125178,0.8897978095367434,Residential Anchor (Family)
+andhra pradesh,tirupati,28462,5073,5.609381158849034,Labor Magnet (Industrial)
+andhra pradesh,visakhapatnam,137329,195385,0.7028599797324271,Residential Anchor (Family)
+andhra pradesh,vizianagaram,67818,79366,0.8544861214358612,Residential Anchor (Family)
+andhra pradesh,west godavari,112548,139979,0.804029147021003,Residential Anchor (Family)
+arunachal pradesh,anjaw,632,408,1.5452322738386308,Mixed Use Zone
+arunachal pradesh,changlang,4969,3651,1.3606243154435926,Mixed Use Zone
+arunachal pradesh,dibang valley,132,219,0.6,Residential Anchor (Family)
+arunachal pradesh,east kameng,1130,1439,0.7847222222222222,Residential Anchor (Family)
+arunachal pradesh,east siang,2080,1599,1.3,Mixed Use Zone
+arunachal pradesh,kamle,254,19,12.7,Labor Magnet (Industrial)
+arunachal pradesh,kra daadi,369,304,1.2098360655737705,Mixed Use Zone
+arunachal pradesh,kurung kumey,229,705,0.3243626062322946,Residential Anchor (Family)
+arunachal pradesh,leparada,15,34,0.42857142857142855,Residential Anchor (Family)
+arunachal pradesh,lohit,1654,1202,1.3748960931005818,Mixed Use Zone
+arunachal pradesh,longding,1222,840,1.4530321046373365,Mixed Use Zone
+arunachal pradesh,lower dibang valley,971,909,1.067032967032967,Mixed Use Zone
+arunachal pradesh,lower siang,269,347,0.7729885057471264,Residential Anchor (Family)
+arunachal pradesh,lower subansiri,1323,758,1.743083003952569,Mixed Use Zone
+arunachal pradesh,namsai,1914,2006,0.953662182361734,Residential Anchor (Family)
+arunachal pradesh,pakke kessang,73,18,3.8421052631578947,Mixed Use Zone
+arunachal pradesh,papum pare,4152,2770,1.498376037531577,Mixed Use Zone
+arunachal pradesh,shi yomi,195,122,1.5853658536585367,Mixed Use Zone
+arunachal pradesh,siang,602,532,1.129455909943715,Mixed Use Zone
+arunachal pradesh,tawang,742,1386,0.5349675558759913,Residential Anchor (Family)
+arunachal pradesh,tirap,894,965,0.9254658385093167,Residential Anchor (Family)
+arunachal pradesh,upper siang,1122,901,1.2439024390243902,Mixed Use Zone
+arunachal pradesh,upper subansiri,1202,1302,0.9224865694551037,Residential Anchor (Family)
+arunachal pradesh,west kameng,1484,1912,0.7757449032932566,Residential Anchor (Family)
+arunachal pradesh,west siang,3031,2326,1.3025354533734421,Mixed Use Zone
+assam,bajali,787,6,112.42857142857143,Labor Magnet (Industrial)
+assam,baksa,15666,6048,2.5898495619110595,Mixed Use Zone
+assam,barpeta,54164,43248,1.2523757774746236,Mixed Use Zone
+assam,biswanath,10181,3133,3.248564135290364,Mixed Use Zone
+assam,bongaigaon,35806,20808,1.7206977750012014,Mixed Use Zone
+assam,cachar,52941,26171,2.0228106373223294,Mixed Use Zone
+assam,charaideo,9150,3498,2.615032866533295,Mixed Use Zone
+assam,chirang,12222,9836,1.242451967063129,Mixed Use Zone
+assam,darrang,25132,8210,3.0607721349409327,Mixed Use Zone
+assam,dhemaji,20422,7965,2.5636454933467236,Mixed Use Zone
+assam,dhubri,73614,28412,2.5908562981733714,Mixed Use Zone
+assam,dibrugarh,24645,7055,3.4927721088435373,Mixed Use Zone
+assam,dima hasao,3563,1973,1.8049645390070923,Mixed Use Zone
+assam,goalpara,36242,12064,3.0038955656858684,Mixed Use Zone
+assam,golaghat,25926,8235,3.147887323943662,Mixed Use Zone
+assam,hailakandi,19049,10051,1.8950457620374055,Mixed Use Zone
+assam,hojai,22937,10606,2.162439898180447,Mixed Use Zone
+assam,jorhat,18522,7065,2.6212850268893293,Mixed Use Zone
+assam,kamrup,41318,16810,2.4577954910475284,Mixed Use Zone
+assam,kamrup metro,23883,7526,3.172977281785572,Mixed Use Zone
+assam,karbi anglong,28683,17558,1.6335212711430036,Mixed Use Zone
+assam,kokrajhar,20741,12190,1.7013370519235502,Mixed Use Zone
+assam,lakhimpur,32419,10494,3.0889947594092426,Mixed Use Zone
+assam,majuli,2991,1060,2.819038642789821,Mixed Use Zone
+assam,marigaon,39311,11917,3.2984561167981203,Mixed Use Zone
+assam,nagaon,90257,30712,2.9387230163123106,Mixed Use Zone
+assam,nalbari,18878,11256,1.677000977169761,Mixed Use Zone
+assam,sonitpur,40414,9989,4.045445445445446,Mixed Use Zone
+assam,tinsukia,33249,6537,5.085500152951973,Labor Magnet (Industrial)
+assam,udalguri,18400,7490,2.4562808703777868,Mixed Use Zone
+assam,west karbi anglong,1299,760,1.7069645203679369,Mixed Use Zone
+bihar,araria,146314,33021,4.430803706619829,Mixed Use Zone
+bihar,arwal,25538,5448,4.686731510368875,Mixed Use Zone
+bihar,aurangabad,95963,22029,4.356014525646845,Mixed Use Zone
+bihar,banka,90686,21452,4.227194331795087,Mixed Use Zone
+bihar,begusarai,119720,34634,3.4566190269958135,Mixed Use Zone
+bihar,bhagalpur,139641,49699,2.809678068410463,Mixed Use Zone
+bihar,bhojpur,131634,18995,6.929564118761845,Labor Magnet (Industrial)
+bihar,buxar,66850,11344,5.892463640370207,Labor Magnet (Industrial)
+bihar,darbhanga,141613,52183,2.7137245132607695,Mixed Use Zone
+bihar,gaya,175229,38485,4.5530582549498515,Mixed Use Zone
+bihar,gopalganj,97842,20359,4.805599214145383,Mixed Use Zone
+bihar,jamui,61497,24935,2.466193455245428,Mixed Use Zone
+bihar,jehanabad,41968,7500,5.594987335021997,Labor Magnet (Industrial)
+bihar,katihar,168447,65958,2.5538137327733894,Mixed Use Zone
+bihar,khagaria,68254,19337,3.529527355465922,Mixed Use Zone
+bihar,kishanganj,138769,37005,3.749905420742582,Mixed Use Zone
+bihar,lakhisarai,44802,11169,4.010922112802149,Mixed Use Zone
+bihar,madhepura,85266,21961,3.882433293871232,Mixed Use Zone
+bihar,madhubani,168104,51192,3.283730197487938,Mixed Use Zone
+bihar,munger,52098,10176,5.119190331138842,Labor Magnet (Industrial)
+bihar,muzaffarpur,190978,40970,4.661297014961802,Mixed Use Zone
+bihar,nalanda,141231,23885,5.91271037427782,Labor Magnet (Industrial)
+bihar,nawada,79623,17800,4.472950957811359,Mixed Use Zone
+bihar,pashchim champaran,217175,34278,6.335511537676128,Labor Magnet (Industrial)
+bihar,patna,222841,38863,5.73386681762042,Labor Magnet (Industrial)
+bihar,purbi champaran,230716,44131,5.227861868938638,Labor Magnet (Industrial)
+bihar,purnia,136631,39180,3.487174906204538,Mixed Use Zone
+bihar,rohtas,107283,24682,4.346432767491796,Mixed Use Zone
+bihar,saharsa,74734,20089,3.7199601791936288,Mixed Use Zone
+bihar,samastipur,187285,40436,4.631525583005663,Mixed Use Zone
+bihar,saran,155057,30057,5.158593386120168,Labor Magnet (Industrial)
+bihar,sheikhpura,25939,9036,2.870310943897311,Mixed Use Zone
+bihar,sheohar,28998,6220,4.661308471306864,Mixed Use Zone
+bihar,sitamarhi,157203,49770,3.1585260493058205,Mixed Use Zone
+bihar,siwan,113122,24891,4.5445122931062185,Mixed Use Zone
+bihar,supaul,100462,22118,4.54188706541887,Mixed Use Zone
+bihar,vaishali,143132,32978,4.340095212104672,Mixed Use Zone
+chandigarh,chandigarh,70228,49166,1.4283564179225903,Mixed Use Zone
+chhattisgarh,balod,54030,26841,2.012890246628418,Mixed Use Zone
+chhattisgarh,bastar,70053,27648,2.533654020036891,Mixed Use Zone
+chhattisgarh,bemetara,54494,27835,1.9576807012501796,Mixed Use Zone
+chhattisgarh,bijapur,11910,6132,1.941953367030817,Mixed Use Zone
+chhattisgarh,bilaspur,140452,64037,2.193260251725538,Mixed Use Zone
+chhattisgarh,dakshin bastar dantewada,6187,8018,0.7715425863574011,Residential Anchor (Family)
+chhattisgarh,dhamtari,41640,22983,1.8116950922380786,Mixed Use Zone
+chhattisgarh,durg,66584,73461,0.9063733630992894,Residential Anchor (Family)
+chhattisgarh,gariyaband,26292,12682,2.0730111172435546,Mixed Use Zone
+chhattisgarh,jashpur,62323,30250,2.060196357145218,Mixed Use Zone
+chhattisgarh,kabeerdham,86436,39100,2.21058284954349,Mixed Use Zone
+chhattisgarh,kondagaon,57771,14308,4.037389055838982,Mixed Use Zone
+chhattisgarh,korba,77273,32907,2.3481524249422634,Mixed Use Zone
+chhattisgarh,korea,29434,15503,1.8984778121775026,Mixed Use Zone
+chhattisgarh,mahasamund,126294,30360,4.159744408945687,Mixed Use Zone
+chhattisgarh,mungeli,66729,27454,2.4304862502276454,Mixed Use Zone
+chhattisgarh,narayanpur,14708,5361,2.7430063409175682,Mixed Use Zone
+chhattisgarh,raigarh,78242,33583,2.329740352548833,Mixed Use Zone
+chhattisgarh,raipur,120722,59737,2.020857745488634,Mixed Use Zone
+chhattisgarh,rajnandgaon,137815,53657,2.5683961385068397,Mixed Use Zone
+chhattisgarh,sakti,8718,248,35.01204819277108,Labor Magnet (Industrial)
+chhattisgarh,sukma,11237,9198,1.2215458201978475,Mixed Use Zone
+chhattisgarh,surajpur,38673,19304,2.003263403263403,Mixed Use Zone
+chhattisgarh,surguja,106554,30222,3.5255930913542666,Mixed Use Zone
+chhattisgarh,uttar bastar kanker,38428,22062,1.7417395639758873,Mixed Use Zone
+dadra and nagar haveli and daman and diu,dadra and nagar haveli,6470,7627,0.8481908757210278,Residential Anchor (Family)
+dadra and nagar haveli and daman and diu,daman,2874,1581,1.8166877370417194,Mixed Use Zone
+dadra and nagar haveli and daman and diu,diu,937,1107,0.8456678700361011,Residential Anchor (Family)
+delhi,central,44615,20799,2.144951923076923,Mixed Use Zone
+delhi,east,162101,53829,3.0113505480215492,Mixed Use Zone
+delhi,new delhi,3514,1451,2.4201101928374658,Mixed Use Zone
+delhi,north,77583,25642,3.0255040361892136,Mixed Use Zone
+delhi,north east,127226,79671,1.5968721759212772,Mixed Use Zone
+delhi,north west,274245,133575,2.0531008564412767,Mixed Use Zone
+delhi,shahdara,23863,2218,10.753943217665615,Labor Magnet (Industrial)
+delhi,south,193160,96661,1.998303366369411,Mixed Use Zone
+delhi,south east,1045,42,24.302325581395348,Labor Magnet (Industrial)
+delhi,south west,149759,66609,2.2482960516438975,Mixed Use Zone
+delhi,west,206288,71164,2.898728307454507,Mixed Use Zone
+goa,north goa,17167,11043,1.5544186888808402,Mixed Use Zone
+goa,south goa,14678,8881,1.6525557306912857,Mixed Use Zone
+gujarat,ahmedabad,243592,166849,1.4599460593347318,Mixed Use Zone
+gujarat,amreli,25310,13455,1.8809453032104637,Mixed Use Zone
+gujarat,anand,35626,20874,1.7066347305389222,Mixed Use Zone
+gujarat,arvalli,6286,7535,0.8341295116772823,Residential Anchor (Family)
+gujarat,banas kantha,65869,53405,1.2333632925139497,Mixed Use Zone
+gujarat,bharuch,42831,28229,1.5172157279489904,Mixed Use Zone
+gujarat,bhavnagar,51332,36695,1.3988445607150644,Mixed Use Zone
+gujarat,botad,6082,4295,1.4157355679702048,Mixed Use Zone
+gujarat,chhotaudepur,7774,6187,1.2563025210084033,Mixed Use Zone
+gujarat,dahod,36037,24012,1.5007287719152127,Mixed Use Zone
+gujarat,dangs,5104,7046,0.7242798353909465,Residential Anchor (Family)
+gujarat,devbhumi dwarka,5751,7894,0.728435718809373,Residential Anchor (Family)
+gujarat,gandhinagar,57658,33686,1.7115801347700894,Mixed Use Zone
+gujarat,gir somnath,9743,14364,0.6782457361642882,Residential Anchor (Family)
+gujarat,jamnagar,41553,24726,1.6804707404861083,Mixed Use Zone
+gujarat,junagadh,34170,15506,2.2035209905204103,Mixed Use Zone
+gujarat,kachchh,59047,67370,0.8764453548262605,Residential Anchor (Family)
+gujarat,kheda,46628,20515,2.2727627217781246,Mixed Use Zone
+gujarat,mahesana,43687,33683,1.2969659185369908,Mixed Use Zone
+gujarat,mahisagar,6589,8008,0.822699463104008,Residential Anchor (Family)
+gujarat,morbi,16755,18118,0.9247199072796511,Residential Anchor (Family)
+gujarat,narmada,12028,13032,0.9228880534029004,Residential Anchor (Family)
+gujarat,navsari,24517,11166,2.1954867018894957,Mixed Use Zone
+gujarat,panch mahals,29672,19904,1.4906807334840493,Mixed Use Zone
+gujarat,patan,26459,21821,1.212491980570067,Mixed Use Zone
+gujarat,porbandar,12822,4986,2.571084820533387,Mixed Use Zone
+gujarat,rajkot,127426,79522,1.6023791858959042,Mixed Use Zone
+gujarat,sabar kantha,38872,14277,2.7225101554839615,Mixed Use Zone
+gujarat,surat,322384,138828,2.3221661180300948,Mixed Use Zone
+gujarat,surendranagar,36017,32573,1.1056977957880518,Mixed Use Zone
+gujarat,tapi,9545,8449,1.129585798816568,Mixed Use Zone
+gujarat,vadodara,89085,46048,1.9345696974961455,Mixed Use Zone
+gujarat,valsad,39602,33439,1.1842703349282298,Mixed Use Zone
+haryana,ambala,29284,26591,1.1012334536702768,Mixed Use Zone
+haryana,bhiwani,30276,37865,0.7995563302170813,Residential Anchor (Family)
+haryana,charkhi dadri,10397,2682,3.875139768915393,Mixed Use Zone
+haryana,faridabad,140801,58976,2.3873883039150856,Mixed Use Zone
+haryana,fatehabad,37378,29864,1.2515653775322284,Mixed Use Zone
+haryana,gurugram,105689,35245,2.9986097713215685,Mixed Use Zone
+haryana,hisar,56541,53323,1.0603293076288351,Mixed Use Zone
+haryana,jhajjar,28621,22834,1.2533829647470986,Mixed Use Zone
+haryana,jind,39090,34877,1.1207638052640634,Mixed Use Zone
+haryana,kaithal,34982,34402,1.016829927622591,Mixed Use Zone
+haryana,karnal,42303,32424,1.3046414803392443,Mixed Use Zone
+haryana,kurukshetra,25192,21523,1.1704144211113177,Mixed Use Zone
+haryana,mahendragarh,25430,20501,1.2403667934835625,Mixed Use Zone
+haryana,nuh,60303,38268,1.5757662860278554,Mixed Use Zone
+haryana,palwal,61703,30617,2.0152524658697497,Mixed Use Zone
+haryana,panchkula,29001,18303,1.5844077797202798,Mixed Use Zone
+haryana,panipat,59653,28767,2.0735887096774195,Mixed Use Zone
+haryana,rewari,37840,24987,1.5143268769009124,Mixed Use Zone
+haryana,rohtak,22379,25700,0.8707443290144352,Residential Anchor (Family)
+haryana,sirsa,50186,40642,1.2348005806657973,Mixed Use Zone
+haryana,sonipat,52916,34624,1.528259927797834,Mixed Use Zone
+haryana,yamunanagar,46861,33734,1.3890914480509857,Mixed Use Zone
+himachal pradesh,bilaspur,5828,8227,0.7083130772970345,Residential Anchor (Family)
+himachal pradesh,chamba,16304,12644,1.2893633847370503,Mixed Use Zone
+himachal pradesh,hamirpur,6437,8719,0.7381880733944954,Residential Anchor (Family)
+himachal pradesh,kangra,30434,31091,0.9788369998713495,Residential Anchor (Family)
+himachal pradesh,kinnaur,1028,1246,0.8243785084202085,Residential Anchor (Family)
+himachal pradesh,kullu,8391,7357,1.140391410709432,Mixed Use Zone
+himachal pradesh,lahaul and spiti,478,549,0.8690909090909091,Residential Anchor (Family)
+himachal pradesh,mandi,14016,18723,0.7485580004272592,Residential Anchor (Family)
+himachal pradesh,shimla,13901,13652,1.018164505969384,Mixed Use Zone
+himachal pradesh,sirmaur,16784,15275,1.0987169416077507,Mixed Use Zone
+himachal pradesh,solan,7723,10211,0.7562671367019194,Residential Anchor (Family)
+himachal pradesh,una,8466,11577,0.7312143720849887,Residential Anchor (Family)
+jammu and kashmir,anantnag,30320,26948,1.1250881294296635,Mixed Use Zone
+jammu and kashmir,bandipora,13295,8575,1.5502565298507462,Mixed Use Zone
+jammu and kashmir,baramulla,31635,28536,1.1085608157830185,Mixed Use Zone
+jammu and kashmir,budgam,24111,23204,1.039043309631545,Mixed Use Zone
+jammu and kashmir,doda,10268,15207,0.6751709626512362,Residential Anchor (Family)
+jammu and kashmir,ganderbal,6495,6284,1.0334128878281623,Mixed Use Zone
+jammu and kashmir,jammu,32630,37813,0.8629079177024382,Residential Anchor (Family)
+jammu and kashmir,kathua,18703,19947,0.9375877280930419,Residential Anchor (Family)
+jammu and kashmir,kishtwar,4901,7939,0.6172544080604534,Residential Anchor (Family)
+jammu and kashmir,kulgam,10078,10690,0.9426620521934337,Residential Anchor (Family)
+jammu and kashmir,kupwara,37397,24776,1.509343342616136,Mixed Use Zone
+jammu and kashmir,poonch,19391,24348,0.7963776746478295,Residential Anchor (Family)
+jammu and kashmir,pulwama,18055,20583,0.8771375825884182,Residential Anchor (Family)
+jammu and kashmir,rajouri,13428,22708,0.5913074111585714,Residential Anchor (Family)
+jammu and kashmir,ramban,5897,17023,0.3463933270676692,Residential Anchor (Family)
+jammu and kashmir,reasi,7281,6041,1.20506454816286,Mixed Use Zone
+jammu and kashmir,samba,4492,6197,0.7247499193288157,Residential Anchor (Family)
+jammu and kashmir,shopian,6363,6176,1.0301117047110249,Mixed Use Zone
+jammu and kashmir,srinagar,36221,30760,1.177497480576054,Mixed Use Zone
+jammu and kashmir,udhampur,15681,16124,0.9724651162790697,Residential Anchor (Family)
+jharkhand,bokaro,66249,20441,3.2408277076606984,Mixed Use Zone
+jharkhand,chatra,43307,17133,2.527547566242559,Mixed Use Zone
+jharkhand,deoghar,56038,16314,3.4347532945142505,Mixed Use Zone
+jharkhand,dhanbad,102021,22471,4.5399163403346385,Mixed Use Zone
+jharkhand,dumka,55639,18616,2.9886125584143524,Mixed Use Zone
+jharkhand,garhwa,38886,20098,1.9347231205532613,Mixed Use Zone
+jharkhand,giridih,115931,25167,4.606285759694851,Mixed Use Zone
+jharkhand,godda,53892,22276,2.4191767293621225,Mixed Use Zone
+jharkhand,gumla,42953,16842,2.5501988956836668,Mixed Use Zone
+jharkhand,hazaribagh,70189,19077,3.679054408218891,Mixed Use Zone
+jharkhand,jamtara,31321,8192,3.8228975955083606,Mixed Use Zone
+jharkhand,khunti,20011,7046,2.83964807719597,Mixed Use Zone
+jharkhand,koderma,25295,9109,2.7766190998902305,Mixed Use Zone
+jharkhand,latehar,35628,10989,3.2418562329390355,Mixed Use Zone
+jharkhand,lohardaga,15908,6361,2.500471549827098,Mixed Use Zone
+jharkhand,pakur,46122,9159,5.035152838427948,Labor Magnet (Industrial)
+jharkhand,palamu,108187,28709,3.768268895855103,Mixed Use Zone
+jharkhand,ramgarh,33083,8098,4.084825287072478,Mixed Use Zone
+jharkhand,ranchi,95347,48920,1.9489994072075387,Mixed Use Zone
+jharkhand,sahebganj,63505,18362,3.4583129118335783,Mixed Use Zone
+jharkhand,simdega,24335,8554,2.8445353594389244,Mixed Use Zone
+karnataka,bagalkote,38905,34854,1.116195667766461,Mixed Use Zone
+karnataka,ballari,43471,54195,0.8021071665805595,Residential Anchor (Family)
+karnataka,belagavi,92258,97171,0.9494298769192772,Residential Anchor (Family)
+karnataka,bengaluru rural,42592,18765,2.269636576787808,Mixed Use Zone
+karnataka,bengaluru south,3388,7643,0.4432234432234432,Residential Anchor (Family)
+karnataka,bengaluru urban,313356,195853,1.599946899220848,Mixed Use Zone
+karnataka,bidar,36661,35010,1.0471280454714234,Mixed Use Zone
+karnataka,chamarajanagar,15850,11445,1.3847632360650008,Mixed Use Zone
+karnataka,chikkaballapura,31990,16315,1.9606521206177985,Mixed Use Zone
+karnataka,chikkamagaluru,19552,12909,1.5144848954298993,Mixed Use Zone
+karnataka,chitradurga,41218,29756,1.3851530732264676,Mixed Use Zone
+karnataka,dakshina kannada,48563,35618,1.363401555349673,Mixed Use Zone
+karnataka,davanagere,31318,40676,0.7699191189124075,Residential Anchor (Family)
+karnataka,dharwad,43366,37059,1.1701565029681598,Mixed Use Zone
+karnataka,gadag,21453,17830,1.2031293814143906,Mixed Use Zone
+karnataka,hassan,41131,29169,1.4100445663352759,Mixed Use Zone
+karnataka,haveri,44155,34540,1.2783358906806404,Mixed Use Zone
+karnataka,kalaburagi,53031,66411,0.7985153285550805,Residential Anchor (Family)
+karnataka,kodagu,10341,3073,3.3640208197787898,Mixed Use Zone
+karnataka,kolar,41076,31388,1.3086112969511612,Mixed Use Zone
+karnataka,koppal,35331,31753,1.112647225546388,Mixed Use Zone
+karnataka,mandya,36160,27550,1.312475046277812,Mixed Use Zone
+karnataka,mysuru,52179,43264,1.20603258985323,Mixed Use Zone
+karnataka,raichur,40787,53880,0.7569829810137154,Residential Anchor (Family)
+karnataka,shivamogga,34576,25178,1.3732078319234282,Mixed Use Zone
+karnataka,tumakuru,47663,46861,1.0170927403866672,Mixed Use Zone
+karnataka,udupi,23432,9253,2.5320942295223685,Mixed Use Zone
+karnataka,uttara kannada,26497,15320,1.729456301807976,Mixed Use Zone
+karnataka,vijayanagara,12626,3587,3.518952062430323,Mixed Use Zone
+karnataka,vijayapura,47968,45055,1.0646306818181819,Mixed Use Zone
+karnataka,yadgir,28213,33445,0.8435388387251092,Residential Anchor (Family)
+kerala,alappuzha,34195,15211,2.247896397580857,Mixed Use Zone
+kerala,ernakulam,60474,26246,2.3040347468282087,Mixed Use Zone
+kerala,idukki,13964,9247,1.5099480968858132,Mixed Use Zone
+kerala,kannur,53071,19837,2.6752192761367075,Mixed Use Zone
+kerala,kasaragod,27742,13443,2.063522761083011,Mixed Use Zone
+kerala,kollam,48602,21461,2.2645606187680554,Mixed Use Zone
+kerala,kottayam,27858,13587,2.0501913453046807,Mixed Use Zone
+kerala,kozhikode,80652,28930,2.787736338183955,Mixed Use Zone
+kerala,malappuram,142379,41088,3.4651366545790845,Mixed Use Zone
+kerala,palakkad,46102,25976,1.7747237941255727,Mixed Use Zone
+kerala,pathanamthitta,19080,8923,2.138054683998207,Mixed Use Zone
+kerala,thiruvananthapuram,59565,25157,2.3676365370856187,Mixed Use Zone
+kerala,thrissur,53826,23715,2.269607016360263,Mixed Use Zone
+kerala,wayanad,16378,5140,3.185761524995137,Mixed Use Zone
+ladakh,kargil,1788,2641,0.6767600302800908,Residential Anchor (Family)
+ladakh,leh,2572,2029,1.2669950738916256,Mixed Use Zone
+lakshadweep,lakshadweep,1006,953,1.0545073375262055,Mixed Use Zone
+madhya pradesh,alirajpur,19593,10082,1.9431716750966974,Mixed Use Zone
+madhya pradesh,anuppur,22348,31994,0.6984841381465854,Residential Anchor (Family)
+madhya pradesh,ashoknagar,38925,44837,0.8681252509032517,Residential Anchor (Family)
+madhya pradesh,balaghat,66256,72713,0.9111862914981984,Residential Anchor (Family)
+madhya pradesh,barwani,70190,78193,0.8976392050540962,Residential Anchor (Family)
+madhya pradesh,betul,37304,69579,0.5361310721471687,Residential Anchor (Family)
+madhya pradesh,bhind,49605,45685,1.085781202118811,Mixed Use Zone
+madhya pradesh,bhopal,80164,89809,0.8925954793452845,Residential Anchor (Family)
+madhya pradesh,burhanpur,13295,24440,0.5439630129700094,Residential Anchor (Family)
+madhya pradesh,chhatarpur,68037,89515,0.7600540685464051,Residential Anchor (Family)
+madhya pradesh,chhindwara,72447,63350,1.1435810010891698,Mixed Use Zone
+madhya pradesh,damoh,48440,74879,0.6469017094017094,Residential Anchor (Family)
+madhya pradesh,datia,31277,18060,1.7317424284369636,Mixed Use Zone
+madhya pradesh,dewas,41799,46081,0.9070569853738987,Residential Anchor (Family)
+madhya pradesh,dhar,75429,77936,0.9678201624388929,Residential Anchor (Family)
+madhya pradesh,dindori,38909,33514,1.160942861405341,Mixed Use Zone
+madhya pradesh,guna,47524,80661,0.5891745803476234,Residential Anchor (Family)
+madhya pradesh,gwalior,70344,69790,1.0079236577782236,Mixed Use Zone
+madhya pradesh,harda,10547,17238,0.6118104298393178,Residential Anchor (Family)
+madhya pradesh,indore,163569,108940,1.5014457366831588,Mixed Use Zone
+madhya pradesh,jabalpur,82738,82138,1.0072925163442457,Mixed Use Zone
+madhya pradesh,jhabua,37565,22635,1.6595246509984096,Mixed Use Zone
+madhya pradesh,katni,47948,46379,1.033807675722294,Mixed Use Zone
+madhya pradesh,maihar,2899,102,28.145631067961165,Labor Magnet (Industrial)
+madhya pradesh,mandla,46610,34924,1.334574087329993,Mixed Use Zone
+madhya pradesh,mandsaur,43947,46973,0.9355600970749777,Residential Anchor (Family)
+madhya pradesh,mauganj,2997,46,63.765957446808514,Labor Magnet (Industrial)
+madhya pradesh,morena,95336,94466,1.009198979537828,Mixed Use Zone
+madhya pradesh,narmadapuram,15705,29397,0.5342200149670046,Residential Anchor (Family)
+madhya pradesh,narsimhapur,26248,34563,0.7594028468927208,Residential Anchor (Family)
+madhya pradesh,neemuch,31762,34879,0.9106077981651376,Residential Anchor (Family)
+madhya pradesh,niwari,1585,456,3.4682713347921226,Mixed Use Zone
+madhya pradesh,pandhurna,761,61,12.274193548387096,Labor Magnet (Industrial)
+madhya pradesh,panna,37841,42769,0.8847556698620529,Residential Anchor (Family)
+madhya pradesh,raisen,36639,67598,0.5420050592464386,Residential Anchor (Family)
+madhya pradesh,rajgarh,34777,68129,0.5104506091296052,Residential Anchor (Family)
+madhya pradesh,ratlam,68372,83610,0.8177392926768009,Residential Anchor (Family)
+madhya pradesh,rewa,73712,119788,0.6153486547178789,Residential Anchor (Family)
+madhya pradesh,sagar,78003,112844,0.6912401967300279,Residential Anchor (Family)
+madhya pradesh,satna,75356,96656,0.7796227898651934,Residential Anchor (Family)
+madhya pradesh,sehore,23303,54978,0.42385274377489585,Residential Anchor (Family)
+madhya pradesh,seoni,63519,45852,1.3852746821363924,Mixed Use Zone
+madhya pradesh,shahdol,47986,45413,1.0566345179900472,Mixed Use Zone
+madhya pradesh,shajapur,26910,52815,0.509504695546804,Residential Anchor (Family)
+madhya pradesh,sheopur,33506,28258,1.1856753600622811,Mixed Use Zone
+madhya pradesh,shivpuri,61614,46027,1.338619970452768,Mixed Use Zone
+madhya pradesh,sidhi,48117,50268,0.9571903160993853,Residential Anchor (Family)
+madhya pradesh,singrauli,47963,65113,0.7366004238719783,Residential Anchor (Family)
+madhya pradesh,tikamgarh,43127,55984,0.7703313387514513,Residential Anchor (Family)
+madhya pradesh,ujjain,66440,86924,0.7643370721886684,Residential Anchor (Family)
+madhya pradesh,umaria,25933,17236,1.504496142020073,Mixed Use Zone
+madhya pradesh,vidisha,40335,67687,0.5958958751920577,Residential Anchor (Family)
+maharashtra,ahilyanagar,226966,117872,1.925513052183282,Mixed Use Zone
+maharashtra,akola,59193,37782,1.5666569621258237,Mixed Use Zone
+maharashtra,amravati,90217,96063,0.9391343271152565,Residential Anchor (Family)
+maharashtra,beed,174020,114597,1.518525628719524,Mixed Use Zone
+maharashtra,bhandara,36236,23655,1.531788975312817,Mixed Use Zone
+maharashtra,buldhana,132591,74144,1.788266235079911,Mixed Use Zone
+maharashtra,chandrapur,108822,65688,1.6566243967787606,Mixed Use Zone
+maharashtra,chhatrapati sambhajinagar,167047,111578,1.497118633434607,Mixed Use Zone
+maharashtra,dharashiv,108767,41110,2.6456909342998225,Mixed Use Zone
+maharashtra,dhule,58263,51642,1.1281877505179791,Mixed Use Zone
+maharashtra,gadchiroli,50327,38590,1.3041123578036329,Mixed Use Zone
+maharashtra,gondia,63092,31451,2.0059773623298995,Mixed Use Zone
+maharashtra,hingoli,93825,27532,3.407728907129626,Mixed Use Zone
+maharashtra,jalgaon,143294,136548,1.0493961874491942,Mixed Use Zone
+maharashtra,jalna,75438,42540,1.7733010507510403,Mixed Use Zone
+maharashtra,kolhapur,124115,81216,1.5281899109792285,Mixed Use Zone
+maharashtra,latur,119670,57850,2.0685899984442795,Mixed Use Zone
+maharashtra,mumbai,175314,147992,1.184610082909327,Mixed Use Zone
+maharashtra,mumbai suburban,176698,99827,1.7700244420403093,Mixed Use Zone
+maharashtra,nagpur,145857,112851,1.2924626945025344,Mixed Use Zone
+maharashtra,nanded,229602,92008,2.4954297949113675,Mixed Use Zone
+maharashtra,nandurbar,38678,67162,0.5758825543826214,Residential Anchor (Family)
+maharashtra,nashik,231315,199392,1.1600958910292738,Mixed Use Zone
+maharashtra,palghar,113104,76104,1.4861572827015308,Mixed Use Zone
+maharashtra,parbhani,112397,47156,2.3834637487541617,Mixed Use Zone
+maharashtra,pune,405834,283480,1.4316091731015483,Mixed Use Zone
+maharashtra,raigad,121440,78629,1.5444486837085083,Mixed Use Zone
+maharashtra,ratnagiri,50357,42437,1.1866016306140723,Mixed Use Zone
+maharashtra,sangli,86422,70391,1.2277247414478918,Mixed Use Zone
+maharashtra,satara,94272,67881,1.3887628531864118,Mixed Use Zone
+maharashtra,sindhudurg,26823,15476,1.7330878077146734,Mixed Use Zone
+maharashtra,solapur,257811,116522,2.212533147962205,Mixed Use Zone
+maharashtra,thane,411164,202896,2.026466630852107,Mixed Use Zone
+maharashtra,wardha,28022,32317,0.8670709821152299,Residential Anchor (Family)
+maharashtra,washim,53279,32064,1.661593637922969,Mixed Use Zone
+maharashtra,yavatmal,191008,78227,2.4416832847573757,Mixed Use Zone
+manipur,bishnupur,36872,11259,3.274600355239787,Mixed Use Zone
+manipur,chandel,7742,2815,2.749289772727273,Mixed Use Zone
+manipur,churachandpur,16539,7023,2.3546412300683373,Mixed Use Zone
+manipur,imphal east,48486,17971,2.697863342977966,Mixed Use Zone
+manipur,imphal west,52034,20958,2.4826566152965315,Mixed Use Zone
+manipur,jiribam,1692,196,8.588832487309645,Labor Magnet (Industrial)
+manipur,kakching,2725,629,4.325396825396825,Mixed Use Zone
+manipur,pherzawl,60,2,20.0,Labor Magnet (Industrial)
+manipur,senapati,20734,6687,3.1001794258373208,Mixed Use Zone
+manipur,tamenglong,8220,2545,3.2285938727415555,Mixed Use Zone
+manipur,thoubal,51605,18393,2.8055344133956726,Mixed Use Zone
+manipur,ukhrul,13273,3362,3.946773713945882,Mixed Use Zone
+meghalaya,east garo hills,6094,381,15.952879581151832,Labor Magnet (Industrial)
+meghalaya,east jaintia hills,2949,1314,2.2425855513307984,Mixed Use Zone
+meghalaya,east khasi hills,14484,4999,2.8968,Mixed Use Zone
+meghalaya,eastern west khasi hills,211,2,70.33333333333333,Labor Magnet (Industrial)
+meghalaya,north garo hills,3650,433,8.410138248847927,Labor Magnet (Industrial)
+meghalaya,ri bhoi,7350,1891,3.8847780126849893,Mixed Use Zone
+meghalaya,south garo hills,3754,349,10.725714285714286,Labor Magnet (Industrial)
+meghalaya,south west garo hills,6689,1546,4.323852617970265,Mixed Use Zone
+meghalaya,south west khasi hills,4097,1058,3.8687440982058545,Mixed Use Zone
+meghalaya,west garo hills,13829,3358,4.116999106877047,Mixed Use Zone
+meghalaya,west jaintia hills,6562,2525,2.59778305621536,Mixed Use Zone
+meghalaya,west khasi hills,9213,1538,5.98635477582846,Labor Magnet (Industrial)
+mizoram,aizawl,11359,18836,0.6030153421457769,Residential Anchor (Family)
+mizoram,champhai,5893,8239,0.7151699029126214,Residential Anchor (Family)
+mizoram,hnahthial,43,10,3.909090909090909,Mixed Use Zone
+mizoram,khawzawl,13,6,1.8571428571428572,Mixed Use Zone
+mizoram,kolasib,3189,7353,0.43364155561599127,Residential Anchor (Family)
+mizoram,lawngtlai,4004,7858,0.5094795775543962,Residential Anchor (Family)
+mizoram,lunglei,6236,5314,1.173283160865475,Mixed Use Zone
+mizoram,mamit,2080,6080,0.34204900509784575,Residential Anchor (Family)
+mizoram,saitual,95,14,6.333333333333333,Labor Magnet (Industrial)
+mizoram,serchhip,2018,4378,0.46083580726193196,Residential Anchor (Family)
+nagaland,chumoukedima,1136,108,10.422018348623853,Labor Magnet (Industrial)
+nagaland,dimapur,7398,6633,1.1151643050949653,Mixed Use Zone
+nagaland,kiphire,1697,898,1.8876529477196886,Mixed Use Zone
+nagaland,kohima,3032,2003,1.5129740518962076,Mixed Use Zone
+nagaland,longleng,688,249,2.752,Mixed Use Zone
+nagaland,meluri,88,160,0.546583850931677,Residential Anchor (Family)
+nagaland,mokokchung,2507,1389,1.8035971223021583,Mixed Use Zone
+nagaland,mon,3825,3459,1.1054913294797688,Mixed Use Zone
+nagaland,niuland,316,72,4.328767123287672,Mixed Use Zone
+nagaland,noklak,385,103,3.701923076923077,Mixed Use Zone
+nagaland,peren,1413,1084,1.3023041474654378,Mixed Use Zone
+nagaland,phek,1313,1024,1.2809756097560976,Mixed Use Zone
+nagaland,shamator,382,18,20.105263157894736,Labor Magnet (Industrial)
+nagaland,tseminyu,84,21,3.8181818181818183,Mixed Use Zone
+nagaland,tuensang,3775,1551,2.4323453608247423,Mixed Use Zone
+nagaland,wokha,1773,1112,1.5929919137466306,Mixed Use Zone
+nagaland,zunheboto,2218,969,2.2865979381443298,Mixed Use Zone
+odisha,angul,27189,18377,1.479431929480901,Mixed Use Zone
+odisha,balangir,37354,31148,1.1992038267681147,Mixed Use Zone
+odisha,balasore,46466,39975,1.1623474084450671,Mixed Use Zone
+odisha,bargarh,30887,24580,1.2565396037590009,Mixed Use Zone
+odisha,bhadrak,35537,26516,1.3401591431911604,Mixed Use Zone
+odisha,boudh,8906,8548,1.041759270090069,Mixed Use Zone
+odisha,cuttack,44743,32328,1.383989606854527,Mixed Use Zone
+odisha,deogarh,6969,4790,1.4546023794614904,Mixed Use Zone
+odisha,dhenkanal,25501,21000,1.2142755106899672,Mixed Use Zone
+odisha,gajapati,18133,16657,1.0885460439428503,Mixed Use Zone
+odisha,ganjam,85949,50724,1.6944110399211434,Mixed Use Zone
+odisha,jagatsinghapur,18130,18756,0.9665724796076132,Residential Anchor (Family)
+odisha,jajpur,39229,23857,1.6442702657389554,Mixed Use Zone
+odisha,jharsuguda,14950,8170,1.8296414147595152,Mixed Use Zone
+odisha,kalahandi,41904,23086,1.8150474292892105,Mixed Use Zone
+odisha,kandhamal,27316,19396,1.4082590091251224,Mixed Use Zone
+odisha,kendrapara,34579,23280,1.4852884326274645,Mixed Use Zone
+odisha,keonjhar,47233,25669,1.8400077911959485,Mixed Use Zone
+odisha,khordha,40147,28001,1.433719020069995,Mixed Use Zone
+odisha,koraput,37309,24727,1.5087754771918473,Mixed Use Zone
+odisha,malkangiri,17690,18145,0.9748704948749035,Residential Anchor (Family)
+odisha,mayurbhanj,61751,41057,1.503994349456866,Mixed Use Zone
+odisha,nabarangpur,37601,21534,1.7460413280705829,Mixed Use Zone
+odisha,nayagarh,20066,16166,1.2411702851487598,Mixed Use Zone
+odisha,nuapada,15772,12643,1.2473900664346727,Mixed Use Zone
+odisha,puri,28887,22019,1.3118528610354223,Mixed Use Zone
+odisha,rayagada,28192,14663,1.92253136933988,Mixed Use Zone
+odisha,sambalpur,26630,14788,1.8006626546757725,Mixed Use Zone
+odisha,sonepur,15150,9426,1.6070860294897635,Mixed Use Zone
+odisha,sundargarh,44396,23493,1.8896739593087597,Mixed Use Zone
+puducherry,karaikal,4951,3921,1.2623661397246302,Mixed Use Zone
+puducherry,puducherry,22814,18094,1.260790273556231,Mixed Use Zone
+punjab,amritsar,92676,48989,1.8917330067360685,Mixed Use Zone
+punjab,barnala,12827,9314,1.3770263016639828,Mixed Use Zone
+punjab,bathinda,35376,32394,1.0920203735144312,Mixed Use Zone
+punjab,faridkot,13896,9598,1.4476507969580164,Mixed Use Zone
+punjab,fatehgarh sahib,14414,12382,1.1640151821044982,Mixed Use Zone
+punjab,fazilka,29626,23923,1.238338070556763,Mixed Use Zone
+punjab,ferozepur,32685,23856,1.3700381439409817,Mixed Use Zone
+punjab,gurdaspur,67125,40136,1.672397040137529,Mixed Use Zone
+punjab,hoshiarpur,43431,33856,1.2827775644622974,Mixed Use Zone
+punjab,jalandhar,48136,34093,1.4118613245732388,Mixed Use Zone
+punjab,kapurthala,13101,9358,1.3998290415642698,Mixed Use Zone
+punjab,ludhiana,112339,81491,1.3785279536641633,Mixed Use Zone
+punjab,malerkotla,14062,3880,3.623292965730482,Mixed Use Zone
+punjab,mansa,22187,20234,1.096466518408698,Mixed Use Zone
+punjab,moga,22742,17639,1.2892290249433107,Mixed Use Zone
+punjab,pathankot,13220,11705,1.1293353835639843,Mixed Use Zone
+punjab,patiala,81662,54972,1.4854928783220853,Mixed Use Zone
+punjab,rupnagar,12699,11554,1.0990047598442232,Mixed Use Zone
+punjab,sangrur,28511,20208,1.4108070661586423,Mixed Use Zone
+punjab,sri muktsar sahib,23596,17201,1.3717009650040692,Mixed Use Zone
+punjab,tarn taran,26259,19603,1.3394715364211385,Mixed Use Zone
+rajasthan,ajmer,111713,78270,1.4272591381226762,Mixed Use Zone
+rajasthan,alwar,129333,114929,1.125319759853824,Mixed Use Zone
+rajasthan,balotra,401,0,401.0,Labor Magnet (Industrial)
+rajasthan,banswara,96240,37216,2.585915038826343,Mixed Use Zone
+rajasthan,baran,72385,41044,1.7635521988061884,Mixed Use Zone
+rajasthan,barmer,101808,109119,0.932991202346041,Residential Anchor (Family)
+rajasthan,beawar,430,2,143.33333333333334,Labor Magnet (Industrial)
+rajasthan,bharatpur,95080,66649,1.42655663915979,Mixed Use Zone
+rajasthan,bhilwara,90693,43294,2.094768449012588,Mixed Use Zone
+rajasthan,bikaner,72638,62218,1.1674568861601762,Mixed Use Zone
+rajasthan,bundi,44385,29304,1.5145879542740146,Mixed Use Zone
+rajasthan,chittorgarh,58392,29953,1.9493890632302864,Mixed Use Zone
+rajasthan,churu,68052,67446,1.0089700060788471,Mixed Use Zone
+rajasthan,dausa,44220,47665,0.9277052825913649,Residential Anchor (Family)
+rajasthan,deeg,1182,7,147.75,Labor Magnet (Industrial)
+rajasthan,dholpur,69173,44588,1.5513467447128215,Mixed Use Zone
+rajasthan,dungarpur,90978,32561,2.7939929979730973,Mixed Use Zone
+rajasthan,ganganagar,63690,46082,1.3820714797213722,Mixed Use Zone
+rajasthan,hanumangarh,70339,43250,1.6262976578576218,Mixed Use Zone
+rajasthan,jaipur,245796,158293,1.552781533096643,Mixed Use Zone
+rajasthan,jaisalmer,19280,21103,0.913570887035633,Residential Anchor (Family)
+rajasthan,jalore,63404,32952,1.92407368069675,Mixed Use Zone
+rajasthan,jhalawar,74861,37909,1.9747032445265102,Mixed Use Zone
+rajasthan,jhunjhunu,51423,38050,1.351423090063336,Mixed Use Zone
+rajasthan,jodhpur,128488,114854,1.1186974881372165,Mixed Use Zone
+rajasthan,karauli,51169,32956,1.5525988409139182,Mixed Use Zone
+rajasthan,kota,83991,42001,1.9996904909290034,Mixed Use Zone
+rajasthan,nagaur,93084,93656,0.9938819308754284,Residential Anchor (Family)
+rajasthan,pali,60939,70502,0.8643461980341262,Residential Anchor (Family)
+rajasthan,phalodi,147,0,147.0,Labor Magnet (Industrial)
+rajasthan,pratapgarh,45108,29156,1.5470727441094763,Mixed Use Zone
+rajasthan,rajsamand,42547,31758,1.3396832393967064,Mixed Use Zone
+rajasthan,salumbar,112,0,112.0,Labor Magnet (Industrial)
+rajasthan,sawai madhopur,40538,38905,1.0419472574924176,Mixed Use Zone
+rajasthan,sikar,69303,67378,1.0285548909897744,Mixed Use Zone
+rajasthan,sirohi,37490,30881,1.213975778770805,Mixed Use Zone
+rajasthan,tonk,50653,35595,1.4229969659512305,Mixed Use Zone
+rajasthan,udaipur,118552,95310,1.2438438375423613,Mixed Use Zone
+sikkim,gangtok,8625,2759,3.125,Mixed Use Zone
+sikkim,gyalshing,4174,1681,2.4815695600475625,Mixed Use Zone
+sikkim,mangan,1702,502,3.3836978131212723,Mixed Use Zone
+sikkim,namchi,10270,1023,10.029296875,Labor Magnet (Industrial)
+tamil nadu,ariyalur,18815,19846,0.9480022169597421,Residential Anchor (Family)
+tamil nadu,chengalpattu,19282,3097,6.224015493867011,Labor Magnet (Industrial)
+tamil nadu,chennai,130441,93101,1.4010547571480743,Mixed Use Zone
+tamil nadu,coimbatore,104412,66935,1.5598780925062747,Mixed Use Zone
+tamil nadu,cuddalore,70377,55089,1.2774913777455073,Mixed Use Zone
+tamil nadu,dharmapuri,34178,45855,0.7453332170272157,Residential Anchor (Family)
+tamil nadu,dindigul,49069,39007,1.257921452009844,Mixed Use Zone
+tamil nadu,erode,60588,52629,1.151206536196086,Mixed Use Zone
+tamil nadu,kallakurichi,9205,1736,5.29936672423719,Labor Magnet (Industrial)
+tamil nadu,kancheepuram,121609,109980,1.105727352906411,Mixed Use Zone
+tamil nadu,kanniyakumari,49127,32881,1.4940392920138679,Mixed Use Zone
+tamil nadu,karur,23754,20055,1.1843837255684084,Mixed Use Zone
+tamil nadu,krishnagiri,52627,54559,0.9645711143695015,Residential Anchor (Family)
+tamil nadu,madurai,90922,92316,0.9848890236901112,Residential Anchor (Family)
+tamil nadu,mayiladuthurai,3132,2953,1.060257278266757,Mixed Use Zone
+tamil nadu,nagapattinam,34068,20448,1.6659983373270086,Mixed Use Zone
+tamil nadu,namakkal,36807,35527,1.0359997748254897,Mixed Use Zone
+tamil nadu,perambalur,12354,14142,0.8735063282189068,Residential Anchor (Family)
+tamil nadu,pudukkottai,44710,30942,1.4449148434217756,Mixed Use Zone
+tamil nadu,ramanathapuram,33134,26459,1.2522297808012093,Mixed Use Zone
+tamil nadu,ranipet,1200,382,3.133159268929504,Mixed Use Zone
+tamil nadu,salem,90884,72367,1.2558589431793057,Mixed Use Zone
+tamil nadu,sivaganga,28905,32345,0.8936189946206641,Residential Anchor (Family)
+tamil nadu,tenkasi,8195,6591,1.2431735436893203,Mixed Use Zone
+tamil nadu,thanjavur,65210,53482,1.2192659349699904,Mixed Use Zone
+tamil nadu,the nilgiris,12853,14437,0.8902202521124809,Residential Anchor (Family)
+tamil nadu,theni,33858,27281,1.2410380470639983,Mixed Use Zone
+tamil nadu,thiruvallur,131808,126773,1.0397084575701643,Mixed Use Zone
+tamil nadu,thiruvarur,32741,26748,1.2240083741448278,Mixed Use Zone
+tamil nadu,thoothukkudi,37872,51281,0.7385047385047385,Residential Anchor (Family)
+tamil nadu,tiruchirappalli,62387,57408,1.086711142852166,Mixed Use Zone
+tamil nadu,tirunelveli,65176,77860,0.8370814656888558,Residential Anchor (Family)
+tamil nadu,tirupathur,8246,6568,1.2552899984776982,Mixed Use Zone
+tamil nadu,tiruppur,73372,64177,1.1432578142042444,Mixed Use Zone
+tamil nadu,tiruvannamalai,55967,69375,0.8067199031365314,Residential Anchor (Family)
+tamil nadu,vellore,77505,84122,0.9213294818301773,Residential Anchor (Family)
+tamil nadu,viluppuram,63119,79271,0.7962332223231405,Residential Anchor (Family)
+tamil nadu,virudhunagar,48681,54576,0.8919691445114242,Residential Anchor (Family)
+telangana,adilabad,65284,51804,1.2601872406138404,Mixed Use Zone
+telangana,bhadradri kothagudem,28170,8537,3.299367533380183,Mixed Use Zone
+telangana,hanumakonda,17061,973,17.516427104722794,Labor Magnet (Industrial)
+telangana,hyderabad,215519,156784,1.3746149185189909,Mixed Use Zone
+telangana,jogulamba gadwal,26733,5579,4.790860215053764,Mixed Use Zone
+telangana,kamareddy,20904,7566,2.7625214748248976,Mixed Use Zone
+telangana,karimnagar,78593,46678,1.6836907388761542,Mixed Use Zone
+telangana,khammam,72368,43458,1.6652016843461654,Mixed Use Zone
+telangana,kumuram bheem asifabad,23729,3925,6.044065206316862,Labor Magnet (Industrial)
+telangana,mahabubabad,20797,4540,4.579828231667034,Mixed Use Zone
+telangana,mancherial,24061,5152,4.669318843392198,Mixed Use Zone
+telangana,medak,56893,44837,1.2688567732726705,Mixed Use Zone
+telangana,medchal malkajgiri,72984,15388,4.742608356618364,Mixed Use Zone
+telangana,mulugu,10380,1289,8.046511627906977,Labor Magnet (Industrial)
+telangana,nagarkurnool,17359,5072,3.4218411196530654,Mixed Use Zone
+telangana,nalgonda,93666,56558,1.6560759560812603,Mixed Use Zone
+telangana,narayanpet,14386,1788,8.041363890441588,Labor Magnet (Industrial)
+telangana,nirmal,29327,5488,5.342867553288395,Labor Magnet (Industrial)
+telangana,nizamabad,60532,66566,0.9093394624964322,Residential Anchor (Family)
+telangana,peddapalli,9008,1506,5.977438619774386,Labor Magnet (Industrial)
+telangana,rajanna sircilla,9739,3029,3.214191419141914,Mixed Use Zone
+telangana,ranga reddy,189138,137381,1.3767305760579989,Mixed Use Zone
+telangana,sangareddy,30851,13048,2.364242470687409,Mixed Use Zone
+telangana,siddipet,31495,9726,3.237894520407114,Mixed Use Zone
+telangana,suryapet,41224,6918,5.9580864286746635,Labor Magnet (Industrial)
+telangana,vikarabad,51676,7396,6.986075435987562,Labor Magnet (Industrial)
+telangana,wanaparthy,21013,2771,7.58044733044733,Labor Magnet (Industrial)
+telangana,warangal,84266,60580,1.3909641636816823,Mixed Use Zone
+telangana,yadadri bhuvanagiri,36383,5399,6.737592592592593,Labor Magnet (Industrial)
+tripura,dhalai,14469,9874,1.4652151898734178,Mixed Use Zone
+tripura,gomati,8300,6722,1.2345679012345678,Mixed Use Zone
+tripura,khowai,2997,3788,0.7909738717339667,Residential Anchor (Family)
+tripura,north tripura,13873,12846,1.0798630030357281,Mixed Use Zone
+tripura,sepahijala,14231,6522,2.181664878123563,Mixed Use Zone
+tripura,south tripura,28143,12600,2.233394175065471,Mixed Use Zone
+tripura,unakoti,3144,5830,0.5391871034127936,Residential Anchor (Family)
+tripura,west tripura,41065,19586,2.0965436258743044,Mixed Use Zone
+uttar pradesh,agra,157476,116061,1.356826523754545,Mixed Use Zone
+uttar pradesh,aligarh,170674,110737,1.5412414889197927,Mixed Use Zone
+uttar pradesh,ambedkar nagar,67720,30653,2.209173354211522,Mixed Use Zone
+uttar pradesh,amethi,68998,29645,2.3273966133711124,Mixed Use Zone
+uttar pradesh,amroha,83625,48186,1.735426567331438,Mixed Use Zone
+uttar pradesh,auraiya,46178,20857,2.213922715504842,Mixed Use Zone
+uttar pradesh,ayodhya,76711,34691,2.211201429724432,Mixed Use Zone
+uttar pradesh,azamgarh,141977,52066,2.7268135287226074,Mixed Use Zone
+uttar pradesh,baghpat,49710,25612,1.9408113067582868,Mixed Use Zone
+uttar pradesh,bahraich,119296,76690,1.555541067400347,Mixed Use Zone
+uttar pradesh,ballia,92140,40984,2.2481395632548495,Mixed Use Zone
+uttar pradesh,balrampur,72758,39960,1.8207252070769,Mixed Use Zone
+uttar pradesh,banda,64150,32468,1.9757306969724968,Mixed Use Zone
+uttar pradesh,bareilly,220300,166397,1.3239341819012247,Mixed Use Zone
+uttar pradesh,basti,75846,35890,2.1132317294029144,Mixed Use Zone
+uttar pradesh,bhadohi,53868,26420,2.038832746678778,Mixed Use Zone
+uttar pradesh,bijnor,209514,143040,1.4647129144790654,Mixed Use Zone
+uttar pradesh,budaun,156943,52074,3.013787806048968,Mixed Use Zone
+uttar pradesh,bulandshahr,156701,134040,1.1690527525160213,Mixed Use Zone
+uttar pradesh,chandauli,83550,31748,2.6315789473684212,Mixed Use Zone
+uttar pradesh,chitrakoot,40616,22244,1.8258485052820859,Mixed Use Zone
+uttar pradesh,deoria,96829,39374,2.459149206349206,Mixed Use Zone
+uttar pradesh,etah,55711,26179,2.1279984721161194,Mixed Use Zone
+uttar pradesh,etawah,55440,40078,1.3832680456099204,Mixed Use Zone
+uttar pradesh,farrukhabad,63850,29104,2.193781137261639,Mixed Use Zone
+uttar pradesh,fatehpur,97695,35283,2.76881872803537,Mixed Use Zone
+uttar pradesh,firozabad,127581,62061,2.055702362153975,Mixed Use Zone
+uttar pradesh,gautam buddha nagar,138699,44000,3.1521783595827366,Mixed Use Zone
+uttar pradesh,ghaziabad,219179,103385,2.120006577292864,Mixed Use Zone
+uttar pradesh,ghazipur,111342,45702,2.436207688773166,Mixed Use Zone
+uttar pradesh,gonda,114930,54760,2.098756414236409,Mixed Use Zone
+uttar pradesh,gorakhpur,140786,44786,3.143456806662648,Mixed Use Zone
+uttar pradesh,hamirpur,39454,19064,2.0694466299501704,Mixed Use Zone
+uttar pradesh,hapur,39764,26086,1.524284126193123,Mixed Use Zone
+uttar pradesh,hardoi,132119,103633,1.2748615319296757,Mixed Use Zone
+uttar pradesh,hathras,54680,29136,1.8766516799945088,Mixed Use Zone
+uttar pradesh,jalaun,56207,23665,2.3750105636778502,Mixed Use Zone
+uttar pradesh,jaunpur,136703,61085,2.237877746128409,Mixed Use Zone
+uttar pradesh,jhansi,66250,44011,1.5052712896482778,Mixed Use Zone
+uttar pradesh,kannauj,53404,25299,2.1108300395256916,Mixed Use Zone
+uttar pradesh,kanpur dehat,64779,25572,2.5331013177961132,Mixed Use Zone
+uttar pradesh,kanpur nagar,156558,84879,1.8444627709707824,Mixed Use Zone
+uttar pradesh,kasganj,45355,26230,1.7290610346536541,Mixed Use Zone
+uttar pradesh,kaushambi,68214,44009,1.5499659168370825,Mixed Use Zone
+uttar pradesh,kushinagar,148684,60105,2.4736964695704255,Mixed Use Zone
+uttar pradesh,lalitpur,42730,22375,1.9096353235609582,Mixed Use Zone
+uttar pradesh,lucknow,193697,123838,1.5641033923077545,Mixed Use Zone
+uttar pradesh,mahoba,29671,17100,1.7350447342260686,Mixed Use Zone
+uttar pradesh,mahrajganj,97223,33284,2.920925341745531,Mixed Use Zone
+uttar pradesh,mainpuri,62889,25555,2.4608311159805916,Mixed Use Zone
+uttar pradesh,mathura,97981,59931,1.6348695187879596,Mixed Use Zone
+uttar pradesh,mau,77708,26756,2.9042119819112755,Mixed Use Zone
+uttar pradesh,meerut,153711,98781,1.5560628454576744,Mixed Use Zone
+uttar pradesh,mirzapur,78518,43504,1.80480404551201,Mixed Use Zone
+uttar pradesh,moradabad,150136,85173,1.7626975368070068,Mixed Use Zone
+uttar pradesh,muzaffarnagar,123611,113738,1.0867952065694264,Mixed Use Zone
+uttar pradesh,pilibhit,125251,87034,1.439087723329695,Mixed Use Zone
+uttar pradesh,pratapgarh,94358,39870,2.366582227684282,Mixed Use Zone
+uttar pradesh,prayagraj,193409,110703,1.7470823095823096,Mixed Use Zone
+uttar pradesh,rae bareli,97995,45525,2.15250626015903,Mixed Use Zone
+uttar pradesh,rampur,143168,73370,1.951288656281092,Mixed Use Zone
+uttar pradesh,saharanpur,154417,114742,1.3457640117479934,Mixed Use Zone
+uttar pradesh,sambhal,91472,41747,2.19105106831465,Mixed Use Zone
+uttar pradesh,sant kabir nagar,71522,29792,2.4006310207095627,Mixed Use Zone
+uttar pradesh,shahjahanpur,136275,89959,1.5148399288572698,Mixed Use Zone
+uttar pradesh,shamli,68386,60250,1.1350185059169142,Mixed Use Zone
+uttar pradesh,siddharthnagar,84354,37345,2.258715792855995,Mixed Use Zone
+uttar pradesh,sitapur,157192,95409,1.6475421863536317,Mixed Use Zone
+uttar pradesh,sonbhadra,65203,37014,1.7615291098203432,Mixed Use Zone
+uttar pradesh,sultanpur,73102,36877,1.9822658495580021,Mixed Use Zone
+uttar pradesh,unnao,115402,59673,1.9338740489995643,Mixed Use Zone
+uttar pradesh,varanasi,144324,52556,2.7460471488098634,Mixed Use Zone
+uttarakhand,almora,13943,10974,1.2704328018223234,Mixed Use Zone
+uttarakhand,bageshwar,5994,4920,1.218045112781955,Mixed Use Zone
+uttarakhand,chamoli,10611,8786,1.207579378627518,Mixed Use Zone
+uttarakhand,champawat,11133,9696,1.1480870372280088,Mixed Use Zone
+uttarakhand,dehradun,75049,65769,1.1410825604378896,Mixed Use Zone
+uttarakhand,haridwar,63276,76067,0.831834674238839,Residential Anchor (Family)
+uttarakhand,nainital,43007,35397,1.214955647211707,Mixed Use Zone
+uttarakhand,pauri garhwal,19380,21190,0.9145391911660611,Residential Anchor (Family)
+uttarakhand,pithoragarh,13164,10339,1.2731141199226306,Mixed Use Zone
+uttarakhand,rudraprayag,7004,8099,0.8646913580246913,Residential Anchor (Family)
+uttarakhand,tehri garhwal,23153,21402,1.081764238658132,Mixed Use Zone
+uttarakhand,udham singh nagar,119377,89690,1.3309808118986297,Mixed Use Zone
+uttarakhand,uttarkashi,8625,10850,0.7948576168095106,Residential Anchor (Family)
+west bengal,alipurduar,9459,1908,4.95495023572551,Mixed Use Zone
+west bengal,bankura,136386,35133,3.8818807992258213,Mixed Use Zone
+west bengal,birbhum,140111,47630,2.941592660242279,Mixed Use Zone
+west bengal,cooch behar,183228,17524,10.455235378031384,Labor Magnet (Industrial)
+west bengal,dakshin dinajpur,86020,18911,4.548434856175973,Mixed Use Zone
+west bengal,darjeeling,59093,7419,7.964016172506739,Labor Magnet (Industrial)
+west bengal,hooghly,174056,45055,3.8631036931818183,Mixed Use Zone
+west bengal,howrah,141021,20975,6.722969107551488,Labor Magnet (Industrial)
+west bengal,jalpaiguri,179007,15255,11.733547456738332,Labor Magnet (Industrial)
+west bengal,jhargram,6423,1070,5.997198879551821,Labor Magnet (Industrial)
+west bengal,kalimpong,2177,312,6.955271565495208,Labor Magnet (Industrial)
+west bengal,kolkata,102883,14498,7.095868680598662,Labor Magnet (Industrial)
+west bengal,malda,200989,41809,4.807199234632863,Mixed Use Zone
+west bengal,murshidabad,340843,90308,3.7741864044558127,Mixed Use Zone
+west bengal,nadia,182892,25906,7.059559192496237,Labor Magnet (Industrial)
+west bengal,north 24 parganas,294923,70040,4.210719435759056,Mixed Use Zone
+west bengal,paschim bardhaman,198709,2262,87.80777728678746,Labor Magnet (Industrial)
+west bengal,paschim medinipur,229939,51417,4.471955346376755,Mixed Use Zone
+west bengal,purba bardhaman,21987,58011,0.37900779149141556,Residential Anchor (Family)
+west bengal,purba medinipur,118185,61173,1.931948213293229,Mixed Use Zone
+west bengal,purulia,149619,37202,4.0216917990484635,Mixed Use Zone
+west bengal,south 24 parganas,414756,110738,3.7453471676645083,Mixed Use Zone
+west bengal,uttar dinajpur,257470,32927,7.819181243926142,Labor Magnet (Industrial)
