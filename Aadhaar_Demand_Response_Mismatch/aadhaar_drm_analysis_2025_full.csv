@@ -1,0 +1,733 @@
+state,district,total_enrollment,total_biometric_updates,total_demographic_updates,total_updates,total_activity,drm_score,category
+andaman_and_nicobar_islands,nicobar,76,1813,791,2604,2680,0.9432835820895522,High Update Pressure
+andaman_and_nicobar_islands,south_andaman,228,10487,3696,14183,14411,0.968357504683922,Very High Update Pressure
+andhra_pradesh,alluri_sitharama_raju,1255,18607,12871,31478,32733,0.9233189747349769,Moderate Update Pressure
+andhra_pradesh,anakapalli,543,6723,13460,20183,20726,0.9476020457396507,Very High Update Pressure
+andhra_pradesh,ananthapuramu,9596,287299,154715,442014,451610,0.9575031553774275,Very High Update Pressure
+andhra_pradesh,annamayya,1021,9712,33634,43346,44367,0.9539748010909009,Very High Update Pressure
+andhra_pradesh,bapatla,492,5982,13514,19496,19988,0.9507704622773664,Very High Update Pressure
+andhra_pradesh,chittoor,8199,251438,169636,421074,429273,0.9618005325282513,Very High Update Pressure
+andhra_pradesh,east_godavari,7678,301850,156025,457875,465553,0.9670155707298632,Very High Update Pressure
+andhra_pradesh,eluru,629,8230,17584,25814,26443,0.9524259728472564,Very High Update Pressure
+andhra_pradesh,guntur,9729,291694,177221,468915,478644,0.9593476571313962,Very High Update Pressure
+andhra_pradesh,kakinada,969,11698,28269,39967,40936,0.9526578073089701,Very High Update Pressure
+andhra_pradesh,krishna,6737,233247,111849,345096,351833,0.9617034217938625,Very High Update Pressure
+andhra_pradesh,kurnool,11770,350633,177645,528278,540048,0.956411281960122,Very High Update Pressure
+andhra_pradesh,nandyal,905,10640,27385,38025,38930,0.9535062933470332,Very High Update Pressure
+andhra_pradesh,ntr,933,13559,549,14108,15041,0.8759390997938967,Very Low Update Pressure
+andhra_pradesh,palnadu,860,10053,25495,35548,36408,0.9527576356844649,Very High Update Pressure
+andhra_pradesh,parvathipuram_manyam,508,10630,9391,20021,20529,0.9505090359978567,Very High Update Pressure
+andhra_pradesh,prakasam,7623,212299,120498,332797,340420,0.9552141472298925,Very High Update Pressure
+andhra_pradesh,sri_sathya_sai,938,10415,22107,32522,33460,0.9439330543933054,High Update Pressure
+andhra_pradesh,srikakulam,4300,192607,135699,328306,332606,0.9741435812943844,Very High Update Pressure
+andhra_pradesh,tirupati,1719,10398,33230,43628,45347,0.9241846208128431,Moderate Update Pressure
+andhra_pradesh,visakhapatnam,8404,311303,157193,468496,476900,0.9647557139861607,Very High Update Pressure
+andhra_pradesh,vizianagaram,3856,159998,78887,238885,242741,0.9682295121137344,Very High Update Pressure
+andhra_pradesh,west_godavari,5935,220414,126806,347220,353155,0.9663886961815633,Very High Update Pressure
+arunachal_pradesh,anjaw,37,1171,760,1931,1968,0.9623983739837398,Very High Update Pressure
+arunachal_pradesh,changlang,803,8183,5659,13842,14645,0.8903379993171731,Low Update Pressure
+arunachal_pradesh,dibang_valley,10,471,160,631,641,0.968798751950078,Very High Update Pressure
+arunachal_pradesh,east_kameng,181,4297,1422,5719,5900,0.9386440677966101,High Update Pressure
+arunachal_pradesh,east_siang,168,3321,2503,5824,5992,0.9439252336448598,High Update Pressure
+arunachal_pradesh,kamle,30,143,318,461,491,0.8778004073319755,Very Low Update Pressure
+arunachal_pradesh,kra_daadi,81,1240,514,1754,1835,0.911716621253406,Moderate Update Pressure
+arunachal_pradesh,kurung_kumey,75,3390,335,3725,3800,0.9605263157894737,Very High Update Pressure
+arunachal_pradesh,leparada,3,36,23,59,62,0.9032258064516129,Low Update Pressure
+arunachal_pradesh,lohit,166,3891,1866,5757,5923,0.9439473239912206,High Update Pressure
+arunachal_pradesh,longding,897,2599,1485,4084,4981,0.6398313591648264,Very Low Update Pressure
+arunachal_pradesh,lower_dibang_valley,109,2248,1157,3405,3514,0.9379624359704041,High Update Pressure
+arunachal_pradesh,lower_siang,31,413,339,752,783,0.9208173690932312,Moderate Update Pressure
+arunachal_pradesh,lower_subansiri,105,2680,1521,4201,4306,0.9512308406874129,Very High Update Pressure
+arunachal_pradesh,namsai,150,6003,2135,8138,8288,0.9638030888030888,Very High Update Pressure
+arunachal_pradesh,pakke_kessang,4,74,87,161,165,0.9515151515151515,Very High Update Pressure
+arunachal_pradesh,papum_pare,447,9259,4922,14181,14628,0.938884331419196,High Update Pressure
+arunachal_pradesh,shi_yomi,35,529,238,767,802,0.912718204488778,Moderate Update Pressure
+arunachal_pradesh,siang,103,1309,777,2086,2189,0.9058931018730013,Low Update Pressure
+arunachal_pradesh,tawang,154,2464,951,3415,3569,0.913701316895489,Moderate Update Pressure
+arunachal_pradesh,tirap,99,1893,990,2883,2982,0.9336016096579477,High Update Pressure
+arunachal_pradesh,upper_siang,43,1796,1321,3117,3160,0.9727848101265822,Very High Update Pressure
+arunachal_pradesh,upper_subansiri,143,4166,1549,5715,5858,0.9511778764083305,Very High Update Pressure
+arunachal_pradesh,west_kameng,278,6172,1859,8031,8309,0.9330846070525936,High Update Pressure
+arunachal_pradesh,west_siang,192,4646,3552,8198,8390,0.9542312276519667,Very High Update Pressure
+assam,bajali,29,23,844,867,896,0.9352678571428571,High Update Pressure
+assam,baksa,3699,17455,17012,34467,38166,0.8061625530576954,Very Low Update Pressure
+assam,barpeta,14383,95421,59142,154563,168946,0.8297325772732116,Very Low Update Pressure
+assam,biswanath,1329,9548,11025,20573,21902,0.8786412199799105,Very Low Update Pressure
+assam,bongaigaon,3175,36608,39124,75732,78907,0.9195255173812209,Moderate Update Pressure
+assam,cachar,17514,66145,58019,124164,141678,0.7527633083470969,Very Low Update Pressure
+assam,charaideo,1189,8293,9913,18206,19395,0.8773910801753029,Very Low Update Pressure
+assam,chirang,3348,27087,13397,40484,43832,0.8472348968789926,Very Low Update Pressure
+assam,darrang,7595,26265,28319,54584,62179,0.7557053024332974,Very Low Update Pressure
+assam,dhemaji,6901,20730,22349,43079,49980,0.7238495398159264,Very Low Update Pressure
+assam,dhubri,12646,59475,80799,140274,152920,0.8346063301072456,Very Low Update Pressure
+assam,dibrugarh,7062,26735,26519,53254,60316,0.7658332780688375,Very Low Update Pressure
+assam,dima_hasao,1308,4049,3879,7928,9236,0.7167605023819835,Very Low Update Pressure
+assam,goalpara,9898,27624,40567,68191,78089,0.7464943846124295,Very Low Update Pressure
+assam,golaghat,11505,20154,27924,48078,59583,0.6138160213483712,Very Low Update Pressure
+assam,hailakandi,5578,21123,21302,42425,48003,0.7675978584671791,Very Low Update Pressure
+assam,hojai,7050,29002,25308,54310,61360,0.7702086049543677,Very Low Update Pressure
+assam,jorhat,4887,16279,19788,36067,40954,0.7613419934560727,Very Low Update Pressure
+assam,kamrup,13809,43252,44584,87836,101645,0.7282896354960894,Very Low Update Pressure
+assam,kamrup_metro,6046,26762,26191,52953,58999,0.7950473736842998,Very Low Update Pressure
+assam,karbi_anglong,8107,39206,31121,70327,78434,0.7932784251727567,Very Low Update Pressure
+assam,kokrajhar,4609,28859,22669,51528,56137,0.835794573988635,Very Low Update Pressure
+assam,lakhimpur,7199,29772,35412,65184,72383,0.8010858903333655,Very Low Update Pressure
+assam,majuli,515,3382,3281,6663,7178,0.856505990526609,Very Low Update Pressure
+assam,marigaon,10487,33936,43810,77746,88233,0.762288486167307,Very Low Update Pressure
+assam,nagaon,12873,117879,97377,215256,228129,0.8871428007837671,Low Update Pressure
+assam,nalbari,3881,20251,20961,41212,45093,0.8278668529483512,Very Low Update Pressure
+assam,sonitpur,9197,30117,43576,73693,82890,0.7780914464953553,Very Low Update Pressure
+assam,tinsukia,8384,19249,35249,54498,62882,0.7333418148277726,Very Low Update Pressure
+assam,udalguri,4565,22348,19780,42128,46693,0.8044674790653845,Very Low Update Pressure
+assam,west_karbi_anglong,1884,3392,1451,4843,6727,0.43986918388583324,Very Low Update Pressure
+bihar,araria,15579,155444,155315,310759,326338,0.9045223050947178,Low Update Pressure
+bihar,arwal,3866,30704,27770,58474,62340,0.8759704844401668,Very Low Update Pressure
+bihar,aurangabad,10283,96662,106534,203196,213479,0.9036626553431485,Low Update Pressure
+bihar,banka,11074,98227,98120,196347,207421,0.893221997772646,Low Update Pressure
+bihar,begusarai,13209,147208,132990,280198,293407,0.9099612483683075,Low Update Pressure
+bihar,bhagalpur,21062,148314,155026,303340,324402,0.8701487660372007,Very Low Update Pressure
+bihar,bhojpur,13357,96996,142341,239337,252694,0.894283204191631,Low Update Pressure
+bihar,buxar,7240,57028,73902,130930,138170,0.8952015632915973,Low Update Pressure
+bihar,darbhanga,15765,210380,153928,364308,380073,0.9170422524094055,Moderate Update Pressure
+bihar,gaya,27401,185172,195174,380346,407747,0.8655980301510495,Very Low Update Pressure
+bihar,gopalganj,15148,103484,105867,209351,224499,0.8650506238335137,Very Low Update Pressure
+bihar,jamui,10382,82157,66920,149077,159459,0.8697847095491631,Very Low Update Pressure
+bihar,jehanabad,4883,37430,46361,83791,88674,0.8898662516633963,Low Update Pressure
+bihar,katihar,16350,217280,180294,397574,413924,0.9209999903363902,Moderate Update Pressure
+bihar,khagaria,8196,79904,75624,155528,163724,0.8998802863355403,Low Update Pressure
+bihar,kishanganj,8764,141279,145141,286420,295184,0.9406200878096374,High Update Pressure
+bihar,lakhisarai,6155,49497,48883,98380,104535,0.8822403979528388,Low Update Pressure
+bihar,madhepura,9027,117237,91861,209098,218125,0.9172309455587393,Moderate Update Pressure
+bihar,madhubani,25930,238135,181691,419826,445756,0.8836583242850349,Low Update Pressure
+bihar,munger,6136,50570,56229,106799,112935,0.8913357240890778,Low Update Pressure
+bihar,muzaffarpur,28855,208544,206917,415461,444316,0.8701149632243719,Very Low Update Pressure
+bihar,nalanda,14575,117402,153043,270445,285020,0.8977264753350642,Low Update Pressure
+bihar,nawada,15413,86245,86518,172763,188176,0.8361852733611087,Very Low Update Pressure
+bihar,pashchim_champaran,46797,167170,234509,401679,448476,0.7913065582104728,Very Low Update Pressure
+bihar,patna,24644,209014,243772,452786,477430,0.896763923507111,Low Update Pressure
+bihar,purbi_champaran,44321,212398,248962,461360,505681,0.8247076714371313,Very Low Update Pressure
+bihar,purnia,20357,233505,146180,379685,400042,0.8982256863029382,Low Update Pressure
+bihar,rohtas,7939,111710,117745,229455,237394,0.9331154115099792,High Update Pressure
+bihar,saharsa,13063,119866,81177,201043,214106,0.8779763294816586,Very Low Update Pressure
+bihar,samastipur,19289,200360,202740,403100,422389,0.9086671291155783,Low Update Pressure
+bihar,saran,24218,148503,169845,318348,342566,0.8586082681877361,Very Low Update Pressure
+bihar,sheikhpura,3228,40556,28266,68822,72050,0.9103955586398335,Low Update Pressure
+bihar,sheohar,3262,32682,31480,64162,67424,0.9032392026578073,Low Update Pressure
+bihar,sitamarhi,42232,182000,169848,351848,394080,0.7856678846934633,Very Low Update Pressure
+bihar,siwan,15311,125804,123722,249526,264837,0.8843741622205357,Low Update Pressure
+bihar,supaul,10411,112370,106911,219281,229692,0.9093481705936646,Low Update Pressure
+bihar,vaishali,18007,168160,155594,323754,341761,0.8946222652672482,Low Update Pressure
+chandigarh,chandigarh,2720,74462,83361,157823,160543,0.966114997228157,Very High Update Pressure
+chhattisgarh,balod,1678,81215,59734,140949,142627,0.9764700933203391,Very High Update Pressure
+chhattisgarh,bastar,6608,94384,79431,173815,180423,0.9267499154764082,Moderate Update Pressure
+chhattisgarh,bemetara,2771,111710,58693,170403,173174,0.9679975053991938,Very High Update Pressure
+chhattisgarh,bijapur,6724,27884,13047,40931,47655,0.7178050571818277,Very Low Update Pressure
+chhattisgarh,bilaspur,8941,195037,153341,348378,357319,0.9499550821534819,Very High Update Pressure
+chhattisgarh,dakshin_bastar_dantewada,1934,46139,8294,54433,56367,0.9313782887150283,High Update Pressure
+chhattisgarh,dhamtari,1968,90278,44713,134991,136959,0.9712614724114516,Very High Update Pressure
+chhattisgarh,durg,4095,179851,77149,257000,261095,0.9686321070874586,Very High Update Pressure
+chhattisgarh,gariyaband,1542,52088,27599,79687,81229,0.9620332639820753,Very High Update Pressure
+chhattisgarh,jashpur,2543,74603,71023,145626,148169,0.9656743313378642,Very High Update Pressure
+chhattisgarh,kabeerdham,3097,93308,94101,187409,190506,0.9674865883489234,Very High Update Pressure
+chhattisgarh,kondagaon,3038,57346,61964,119310,122348,0.9503383790499231,Very High Update Pressure
+chhattisgarh,korba,3542,101874,83374,185248,188790,0.9624768261030775,Very High Update Pressure
+chhattisgarh,korea,1763,60897,31735,92632,94395,0.9626463266062821,Very High Update Pressure
+chhattisgarh,mahasamund,3361,99869,134887,234756,238117,0.9717701802055292,Very High Update Pressure
+chhattisgarh,mungeli,2957,82567,70564,153131,156088,0.9621111168059043,Very High Update Pressure
+chhattisgarh,narayanpur,762,22173,16765,38938,39700,0.9616120906801008,Very High Update Pressure
+chhattisgarh,raigarh,4956,174626,83436,258062,263018,0.9623143663171342,Very High Update Pressure
+chhattisgarh,raipur,7041,192374,133011,325385,332426,0.9576386925210423,Very High Update Pressure
+chhattisgarh,rajnandgaon,4185,154498,148118,302616,306801,0.9727184722344451,Very High Update Pressure
+chhattisgarh,sakti,455,4024,9685,13709,14164,0.9357526122564247,High Update Pressure
+chhattisgarh,sukma,2179,30139,12746,42885,45064,0.9032930942659328,Low Update Pressure
+chhattisgarh,surajpur,2977,71822,42067,113889,116866,0.9490527612821522,Very High Update Pressure
+chhattisgarh,surguja,3556,82860,115683,198543,202099,0.9648093261223459,Very High Update Pressure
+chhattisgarh,uttar_bastar_kanker,2593,83510,42408,125918,128511,0.9596454778190194,Very High Update Pressure
+dadra_and_nagar_haveli_and_daman_and_diu,dadra_and_nagar_haveli,1573,29766,7957,37723,39296,0.9199409609120521,Moderate Update Pressure
+dadra_and_nagar_haveli_and_daman_and_diu,daman,130,5966,3168,9134,9264,0.9719343696027634,Very High Update Pressure
+dadra_and_nagar_haveli_and_daman_and_diu,diu,96,3536,1079,4615,4711,0.9592443218000425,Very High Update Pressure
+delhi,central,3947,54060,49047,103107,107054,0.9262615128813496,Moderate Update Pressure
+delhi,east,10736,122805,187061,309866,320602,0.9330259948471937,High Update Pressure
+delhi,new_delhi,1637,4563,4061,8624,10261,0.6809277848162947,Very Low Update Pressure
+delhi,north,4459,60830,86900,147730,152189,0.9414018095920205,High Update Pressure
+delhi,north_east,13853,189716,152975,342691,356544,0.922292900735954,Moderate Update Pressure
+delhi,north_west,16043,325293,313989,639282,655325,0.9510380345630031,Very High Update Pressure
+delhi,shahdara,1700,7963,28544,36507,38207,0.9110110712696626,Low Update Pressure
+delhi,south,13395,222936,213489,436425,449820,0.9404428438041883,High Update Pressure
+delhi,south_east,60,582,1169,1751,1811,0.9337382661512976,High Update Pressure
+delhi,south_west,9285,142372,169699,312071,321356,0.9422136197861561,High Update Pressure
+delhi,west,19414,173242,232000,405242,424656,0.9085659922384236,Low Update Pressure
+goa,north_goa,1356,37813,18882,56695,58051,0.9532824585278462,Very High Update Pressure
+goa,south_goa,977,30584,16238,46822,47799,0.9591204836921274,Very High Update Pressure
+gujarat,ahmedabad,25797,421172,275644,696816,722613,0.9286007863130057,Moderate Update Pressure
+gujarat,amreli,4293,68514,27888,96402,100695,0.9147326083718159,Moderate Update Pressure
+gujarat,anand,6980,113695,39149,152844,159824,0.9126539193112424,Moderate Update Pressure
+gujarat,arvalli,2391,29669,8096,37765,40156,0.8809144337085367,Very Low Update Pressure
+gujarat,banas_kantha,30858,152304,75680,227984,258842,0.7615688334968823,Very Low Update Pressure
+gujarat,bharuch,4351,76378,49806,126184,130535,0.9333358869268779,High Update Pressure
+gujarat,bhavnagar,10174,141152,57862,199014,209188,0.9027286460026388,Low Update Pressure
+gujarat,botad,2947,16256,7545,23801,26748,0.7796470764169283,Very Low Update Pressure
+gujarat,chhotaudepur,4107,33802,9631,43433,47540,0.827219183845183,Very Low Update Pressure
+gujarat,dahod,23512,131391,41148,172539,196051,0.7601440441517768,Very Low Update Pressure
+gujarat,dangs,1328,27950,6581,34531,35859,0.9259321230374522,Moderate Update Pressure
+gujarat,devbhumi_dwarka,2490,25464,6586,32050,34540,0.855819339895773,Very Low Update Pressure
+gujarat,gandhinagar,5650,76564,64588,141152,146802,0.923025571858694,Moderate Update Pressure
+gujarat,gir_somnath,5723,36766,12066,48832,54555,0.7901933828246723,Very Low Update Pressure
+gujarat,jamnagar,6078,81102,45719,126821,132899,0.9085320431304976,Low Update Pressure
+gujarat,junagadh,5536,102672,38045,140717,146253,0.9242955700054016,Moderate Update Pressure
+gujarat,kachchh,9302,123961,66789,190750,200052,0.9070041789134825,Low Update Pressure
+gujarat,kheda,7567,117161,52619,169780,177347,0.914664471347133,Moderate Update Pressure
+gujarat,mahesana,6490,99913,50217,150130,156620,0.9171242497765292,Moderate Update Pressure
+gujarat,mahisagar,2563,30952,7507,38459,41022,0.8750426600360782,Very Low Update Pressure
+gujarat,morbi,8004,31879,19799,51678,59682,0.7317784256559767,Very Low Update Pressure
+gujarat,narmada,1280,39198,14757,53955,55235,0.9536525753598262,Very High Update Pressure
+gujarat,navsari,2757,45552,29602,75154,77911,0.9292269384297468,Moderate Update Pressure
+gujarat,panch_mahals,7681,105095,32887,137982,145663,0.8945373911013779,Low Update Pressure
+gujarat,patan,8967,73949,29559,103508,112475,0.8405512336074683,Very Low Update Pressure
+gujarat,porbandar,2519,30985,14623,45608,48127,0.8953186361086293,Low Update Pressure
+gujarat,rajkot,17070,168711,137600,306311,323381,0.8944279348508416,Low Update Pressure
+gujarat,sabar_kantha,7552,91004,44520,135524,143076,0.894433727529425,Low Update Pressure
+gujarat,surat,25469,281599,357582,639181,664650,0.9233611675317837,Moderate Update Pressure
+gujarat,surendranagar,8297,96238,39672,135910,144207,0.8849293030158036,Low Update Pressure
+gujarat,tapi,2212,40025,12190,52215,54427,0.918716813346317,Moderate Update Pressure
+gujarat,vadodara,12284,201417,100027,301444,313728,0.9216901264789882,Moderate Update Pressure
+gujarat,valsad,7448,84024,48343,132367,139815,0.893459213961306,Low Update Pressure
+haryana,ambala,3218,72756,33242,105998,109216,0.9410709053618518,High Update Pressure
+haryana,bhiwani,3489,95625,34280,129905,133394,0.9476888015952741,Very High Update Pressure
+haryana,charkhi_dadri,858,9788,12095,21883,22741,0.9245415768875599,Moderate Update Pressure
+haryana,faridabad,16155,118951,160555,279506,295661,0.890719438816753,Low Update Pressure
+haryana,fatehabad,2612,69794,41970,111764,114376,0.954326082394908,Very High Update Pressure
+haryana,gurugram,9497,70791,119213,190004,199501,0.9047924571806658,Low Update Pressure
+haryana,hisar,5234,115867,63206,179073,184307,0.9432034594453819,High Update Pressure
+haryana,jhajjar,2625,56639,32384,89023,91648,0.9427156075418994,High Update Pressure
+haryana,jind,3821,91268,44013,135281,139102,0.9450618970252045,High Update Pressure
+haryana,kaithal,2991,79936,39974,119910,122901,0.9513266775697513,Very High Update Pressure
+haryana,karnal,4048,94019,49131,143150,147198,0.9449992527072378,High Update Pressure
+haryana,kurukshetra,2404,69992,28709,98701,101105,0.9524454774739133,Very High Update Pressure
+haryana,mahendragarh,2754,48832,28534,77366,80120,0.9312531203195207,High Update Pressure
+haryana,nuh,9064,68326,66667,134993,144057,0.8741609224126561,Very Low Update Pressure
+haryana,palwal,4703,58697,68968,127665,132368,0.9289405294330956,Moderate Update Pressure
+haryana,panchkula,1384,37369,34418,71787,73171,0.9621708053737136,Very High Update Pressure
+haryana,panipat,6088,79773,69084,148857,154945,0.9214172770983252,Moderate Update Pressure
+haryana,rewari,2485,49732,44031,93763,96248,0.9483625633779403,Very High Update Pressure
+haryana,rohtak,3413,75970,26531,102501,105914,0.9355514851672111,High Update Pressure
+haryana,sirsa,3335,97066,55162,152228,155563,0.9571234805191465,Very High Update Pressure
+haryana,sonipat,4619,84653,60664,145317,149936,0.9383870451392594,High Update Pressure
+haryana,yamunanagar,3455,89610,53309,142919,146374,0.9527921625425281,Very High Update Pressure
+himachal_pradesh,bilaspur,999,21906,6760,28666,29665,0.9326479015675038,High Update Pressure
+himachal_pradesh,chamba,1657,33842,19658,53500,55157,0.9399169643019019,High Update Pressure
+himachal_pradesh,hamirpur,1198,23819,7320,31139,32337,0.9259053097071466,Moderate Update Pressure
+himachal_pradesh,kangra,3966,89913,34127,124040,128006,0.9380341546490009,High Update Pressure
+himachal_pradesh,kinnaur,163,4467,1169,5636,5799,0.9437834109329195,High Update Pressure
+himachal_pradesh,kullu,1239,21248,9602,30850,32089,0.9227772757019539,Moderate Update Pressure
+himachal_pradesh,lahaul_and_spiti,73,1407,569,1976,2049,0.928745729624207,Moderate Update Pressure
+himachal_pradesh,mandi,2514,63334,16305,79639,82153,0.9387971224422723,High Update Pressure
+himachal_pradesh,shimla,1670,39727,15742,55469,57139,0.9415460543586692,High Update Pressure
+himachal_pradesh,sirmaur,1584,31453,19418,50871,52455,0.9396053760366028,High Update Pressure
+himachal_pradesh,solan,1176,33569,8983,42552,43728,0.9462129527991219,High Update Pressure
+himachal_pradesh,una,1247,31549,9561,41110,42357,0.9411195316004438,High Update Pressure
+jammu_and_kashmir,anantnag,3354,47569,35566,83135,86489,0.9224410040583195,Moderate Update Pressure
+jammu_and_kashmir,bandipora,1641,20374,15895,36269,37910,0.913426536533896,Moderate Update Pressure
+jammu_and_kashmir,baramulla,3794,61935,36795,98730,102524,0.9259880613319807,Moderate Update Pressure
+jammu_and_kashmir,budgam,2726,37252,30741,67993,70719,0.9229061496910307,Moderate Update Pressure
+jammu_and_kashmir,doda,4504,36779,11377,48156,52660,0.8289403721990125,Very Low Update Pressure
+jammu_and_kashmir,ganderbal,843,13696,7529,21225,22068,0.9235997824904839,Moderate Update Pressure
+jammu_and_kashmir,jammu,4620,98800,35116,133916,138536,0.9333025350811341,High Update Pressure
+jammu_and_kashmir,kathua,2962,40163,20478,60641,63603,0.9068597393204723,Low Update Pressure
+jammu_and_kashmir,kishtwar,1269,20920,5868,26788,28057,0.9095412909434366,Low Update Pressure
+jammu_and_kashmir,kulgam,1211,25744,12407,38151,39362,0.9384685737513337,High Update Pressure
+jammu_and_kashmir,kupwara,2884,49760,45137,94897,97781,0.9410110348636238,High Update Pressure
+jammu_and_kashmir,poonch,2630,46376,23443,69819,72449,0.9273972035500835,Moderate Update Pressure
+jammu_and_kashmir,pulwama,1875,32832,21487,54319,56194,0.9332668968217247,High Update Pressure
+jammu_and_kashmir,rajouri,2676,55748,15823,71571,74247,0.9279162794456342,Moderate Update Pressure
+jammu_and_kashmir,ramban,1920,29877,7754,37631,39551,0.902910166620313,Low Update Pressure
+jammu_and_kashmir,reasi,1715,23240,8400,31640,33355,0.8971668415529905,Low Update Pressure
+jammu_and_kashmir,samba,588,11225,5120,16345,16933,0.930549813972716,High Update Pressure
+jammu_and_kashmir,shopian,1078,15529,8207,23736,24814,0.9131135649230273,Moderate Update Pressure
+jammu_and_kashmir,srinagar,3259,72844,39716,112560,115819,0.9437225325723758,High Update Pressure
+jammu_and_kashmir,udhampur,2808,45486,16853,62339,65147,0.9137949560225337,Moderate Update Pressure
+jharkhand,bokaro,5802,108432,70673,179105,184907,0.9372441281292758,High Update Pressure
+jharkhand,chatra,6302,67692,47296,114988,121290,0.8960837661802292,Low Update Pressure
+jharkhand,deoghar,8324,67426,60060,127486,135810,0.8774169796038583,Very Low Update Pressure
+jharkhand,dhanbad,11031,151069,107797,258866,269897,0.9182577057173662,Moderate Update Pressure
+jharkhand,dumka,5825,76212,59658,135870,141695,0.9177811496524224,Moderate Update Pressure
+jharkhand,garhwa,6454,105042,42389,147431,153885,0.9161191799070735,Moderate Update Pressure
+jharkhand,giridih,14303,110410,125671,236081,250384,0.8857514857179373,Low Update Pressure
+jharkhand,godda,5390,80934,57677,138611,144001,0.9251394087541058,Moderate Update Pressure
+jharkhand,gumla,6701,87878,46753,134631,141332,0.9051736337135255,Low Update Pressure
+jharkhand,hazaribagh,6770,82666,76371,159037,165807,0.9183387914864873,Moderate Update Pressure
+jharkhand,jamtara,4450,39641,33003,72644,77094,0.8845565154227307,Low Update Pressure
+jharkhand,khunti,2644,42955,21421,64376,67020,0.9210981796478663,Moderate Update Pressure
+jharkhand,koderma,3532,43041,27188,70229,73761,0.9042312333075745,Low Update Pressure
+jharkhand,latehar,2609,43463,38645,82108,84717,0.9384066952323619,High Update Pressure
+jharkhand,lohardaga,2959,39196,17419,56615,59574,0.9006613623392755,Low Update Pressure
+jharkhand,pakur,7221,39771,49139,88910,96131,0.8497675047591308,Very Low Update Pressure
+jharkhand,palamu,8892,115675,117737,233412,242304,0.9266045958795562,Moderate Update Pressure
+jharkhand,ramgarh,2979,37237,35460,72697,75676,0.9212696231301866,Moderate Update Pressure
+jharkhand,ranchi,14265,177774,103653,281427,295692,0.9035144677569904,Low Update Pressure
+jharkhand,sahebganj,6686,66522,68405,134927,141613,0.9055736408380587,Low Update Pressure
+jharkhand,simdega,2079,62711,26085,88796,90875,0.9542448418156809,Very High Update Pressure
+karnataka,bagalkote,7391,78859,53857,132716,140107,0.8944949217383856,Low Update Pressure
+karnataka,ballari,7001,105607,51779,157386,164387,0.914822948286665,Moderate Update Pressure
+karnataka,belagavi,14548,190070,117343,307413,321961,0.9096288059733942,Low Update Pressure
+karnataka,bengaluru_rural,5434,38045,48313,86358,91792,0.8816018825169949,Very Low Update Pressure
+karnataka,bengaluru_south,3356,41068,3714,44782,48138,0.8605675350035316,Very Low Update Pressure
+karnataka,bengaluru_urban,61070,496054,355766,851820,912890,0.8662051287668832,Very Low Update Pressure
+karnataka,bidar,4920,79708,43059,122767,127687,0.9229365557965964,Moderate Update Pressure
+karnataka,chamarajanagar,2879,33124,18313,51437,54316,0.8939907209661978,Low Update Pressure
+karnataka,chikkaballapura,3152,41933,36221,78154,81306,0.9224657466853615,Moderate Update Pressure
+karnataka,chikkamagaluru,2536,38480,22285,60765,63301,0.9198748834931517,Moderate Update Pressure
+karnataka,chitradurga,4413,61227,47341,108568,112981,0.9218806702011842,Moderate Update Pressure
+karnataka,dakshina_kannada,6505,78051,56402,134453,140958,0.907703003731608,Low Update Pressure
+karnataka,davanagere,5296,95683,36959,132642,137938,0.9232118778001711,Moderate Update Pressure
+karnataka,dharwad,5103,87821,55119,142940,148043,0.9310605702397277,High Update Pressure
+karnataka,gadag,4602,42065,29591,71656,76258,0.8793044664166383,Very Low Update Pressure
+karnataka,hassan,3487,56694,47414,104108,107595,0.9351828616571402,High Update Pressure
+karnataka,haveri,4359,69745,58594,128339,132698,0.9343019487859652,High Update Pressure
+karnataka,kalaburagi,9138,134602,63919,198521,207659,0.9119903303011186,Moderate Update Pressure
+karnataka,kodagu,1211,17305,11481,28786,29997,0.9192585925259192,Moderate Update Pressure
+karnataka,kolar,4186,64283,47265,111548,115734,0.9276617070178167,Moderate Update Pressure
+karnataka,koppal,5451,59812,43399,103211,108662,0.8996705379985643,Low Update Pressure
+karnataka,mandya,3594,65779,40261,106040,109634,0.9344363974679388,High Update Pressure
+karnataka,mysuru,7434,109107,58416,167523,174957,0.9150191189835216,Moderate Update Pressure
+karnataka,raichur,9779,110877,48164,159041,168820,0.884148797535837,Low Update Pressure
+karnataka,shivamogga,4489,60503,40265,100768,105257,0.9147040101845958,Moderate Update Pressure
+karnataka,tumakuru,5942,108322,54725,163047,168989,0.9296758960642408,Moderate Update Pressure
+karnataka,udupi,3593,34628,27376,62004,65597,0.8904523072701496,Low Update Pressure
+karnataka,uttara_kannada,3470,43156,30631,73787,77257,0.9101699522373378,Low Update Pressure
+karnataka,vijayanagara,2119,19948,14692,34640,36759,0.8847085067602491,Low Update Pressure
+karnataka,vijayapura,9830,108215,62354,170569,180399,0.8910193515485119,Low Update Pressure
+karnataka,yadgir,6947,65183,35433,100616,107563,0.8708291884755911,Very Low Update Pressure
+kerala,alappuzha,3559,87629,36835,124464,128023,0.9444006155143998,High Update Pressure
+kerala,ernakulam,6324,148755,66207,214962,221286,0.9428431983948374,High Update Pressure
+kerala,idukki,1698,47933,15492,63425,65123,0.9478525252215039,Very High Update Pressure
+kerala,kannur,5965,119399,57710,177109,183074,0.9348350940057026,High Update Pressure
+kerala,kasaragod,3870,73894,30227,104121,107991,0.9283273606133845,Moderate Update Pressure
+kerala,kollam,5069,127311,53100,180411,185480,0.9453418158292,High Update Pressure
+kerala,kottayam,3321,78215,30210,108425,111746,0.9405616308413725,High Update Pressure
+kerala,kozhikode,6704,152186,89927,242113,248817,0.9461130067479312,High Update Pressure
+kerala,malappuram,14567,224009,152390,376399,390966,0.9254820112234824,Moderate Update Pressure
+kerala,palakkad,6724,159847,49996,209843,216567,0.9379037434142783,High Update Pressure
+kerala,pathanamthitta,1951,59370,21035,80405,82356,0.9526203312448395,Very High Update Pressure
+kerala,thiruvananthapuram,6663,148817,64938,213755,220418,0.9395421426562259,High Update Pressure
+kerala,thrissur,7071,145512,58820,204332,211403,0.9331040713707942,High Update Pressure
+kerala,wayanad,1516,36853,18065,54918,56434,0.9462735230534784,High Update Pressure
+ladakh,kargil,1022,5865,2489,8354,9376,0.7819965870307167,Very Low Update Pressure
+ladakh,leh,334,5396,3246,8642,8976,0.9255793226381461,Moderate Update Pressure
+lakshadweep,lakshadweep,203,4820,1176,5996,6199,0.9345055654137764,High Update Pressure
+madhya_pradesh,alirajpur,7010,62133,21594,83727,90737,0.8454875078523645,Very Low Update Pressure
+madhya_pradesh,anuppur,3226,71350,26195,97545,100771,0.9359736432108444,High Update Pressure
+madhya_pradesh,ashoknagar,8189,74376,45017,119393,127582,0.8716276590741641,Very Low Update Pressure
+madhya_pradesh,balaghat,6805,126762,79292,206054,212859,0.936060960541955,High Update Pressure
+madhya_pradesh,barwani,21823,143427,82759,226186,248009,0.8240144510884686,Very Low Update Pressure
+madhya_pradesh,betul,8166,155822,48246,204068,212234,0.9230472026159805,Moderate Update Pressure
+madhya_pradesh,bhind,13967,83365,58016,141381,155348,0.8201843602749955,Very Low Update Pressure
+madhya_pradesh,bhopal,12862,186438,90864,277302,290164,0.9113466867013137,Moderate Update Pressure
+madhya_pradesh,burhanpur,9689,74141,16543,90684,100373,0.8069401133771034,Very Low Update Pressure
+madhya_pradesh,chhatarpur,17836,158531,79858,238389,256225,0.8607786125475656,Very Low Update Pressure
+madhya_pradesh,chhindwara,8981,140191,89422,229613,238594,0.9247173021953612,Moderate Update Pressure
+madhya_pradesh,damoh,6066,134483,55454,189937,196003,0.9381029882195681,High Update Pressure
+madhya_pradesh,datia,5843,47034,36445,83479,89322,0.8691699693244666,Very Low Update Pressure
+madhya_pradesh,dewas,10442,119901,47249,167150,177592,0.8824046128203973,Low Update Pressure
+madhya_pradesh,dhar,12712,146391,87455,233846,246558,0.8968843030848725,Low Update Pressure
+madhya_pradesh,dindori,2659,61476,47417,108893,111552,0.9523271658060815,Very High Update Pressure
+madhya_pradesh,guna,9811,132886,52953,185839,195650,0.8997086634295937,Low Update Pressure
+madhya_pradesh,gwalior,18542,127120,81719,208839,227381,0.8369080969825975,Very Low Update Pressure
+madhya_pradesh,harda,2744,47941,12261,60202,62946,0.912814158167318,Moderate Update Pressure
+madhya_pradesh,indore,22303,221624,186687,408311,430614,0.896413028837892,Low Update Pressure
+madhya_pradesh,jabalpur,12467,158664,92051,250715,263182,0.905259478231794,Low Update Pressure
+madhya_pradesh,jhabua,13488,88726,41462,130188,143676,0.8122442161530109,Very Low Update Pressure
+madhya_pradesh,katni,10941,98452,56942,155394,166335,0.8684462079538281,Very Low Update Pressure
+madhya_pradesh,maihar,418,1521,4017,5538,5956,0.8596373404969778,Very Low Update Pressure
+madhya_pradesh,mandla,4911,62247,56981,119228,124139,0.9208790146529294,Moderate Update Pressure
+madhya_pradesh,mandsaur,8276,92460,54055,146515,154791,0.8930687184655438,Low Update Pressure
+madhya_pradesh,mauganj,438,1061,4086,5147,5585,0.8431512981199641,Very Low Update Pressure
+madhya_pradesh,morena,22381,145559,110417,255976,278357,0.8391921165984688,Very Low Update Pressure
+madhya_pradesh,narmadapuram,6719,103906,18312,122218,128937,0.895778558520828,Low Update Pressure
+madhya_pradesh,narsimhapur,6363,73465,30483,103948,110311,0.8846352584964328,Low Update Pressure
+madhya_pradesh,neemuch,4964,57011,36976,93987,98951,0.8996675122030096,Low Update Pressure
+madhya_pradesh,niwari,142,2295,1739,4034,4176,0.9319923371647509,High Update Pressure
+madhya_pradesh,pandhurna,98,377,821,1198,1296,0.8487654320987654,Very Low Update Pressure
+madhya_pradesh,panna,9339,98039,42825,140864,150203,0.8756482893151268,Very Low Update Pressure
+madhya_pradesh,raisen,7567,116648,42813,159461,167028,0.9093924371961587,Low Update Pressure
+madhya_pradesh,rajgarh,8171,165229,42280,207509,215680,0.9242303412462908,Moderate Update Pressure
+madhya_pradesh,ratlam,7982,134947,79423,214370,222352,0.9282039289055192,Moderate Update Pressure
+madhya_pradesh,rewa,10838,194959,83134,278093,288931,0.9249786281153631,Moderate Update Pressure
+madhya_pradesh,sagar,13841,192725,87877,280602,294443,0.9059851991726752,Low Update Pressure
+madhya_pradesh,satna,13276,172713,87053,259766,273042,0.9027548875264612,Low Update Pressure
+madhya_pradesh,sehore,6518,118002,27869,145871,152389,0.9144557678047628,Moderate Update Pressure
+madhya_pradesh,seoni,6081,85752,74283,160035,166116,0.9267861012786246,Moderate Update Pressure
+madhya_pradesh,shahdol,5297,94572,54777,149349,154646,0.9314951566804185,High Update Pressure
+madhya_pradesh,shajapur,7025,126641,31225,157866,164891,0.9147921960567891,Moderate Update Pressure
+madhya_pradesh,sheopur,7230,56268,38806,95074,102304,0.8586565530184548,Very Low Update Pressure
+madhya_pradesh,shivpuri,12741,166572,68930,235502,248243,0.897350579875364,Low Update Pressure
+madhya_pradesh,sidhi,6292,121207,54093,175300,181592,0.93070179303053,High Update Pressure
+madhya_pradesh,singrauli,6550,108430,56704,165134,171684,0.9236970247664313,Moderate Update Pressure
+madhya_pradesh,tikamgarh,7242,160616,51168,211784,219026,0.9338708646462064,High Update Pressure
+madhya_pradesh,ujjain,14308,149951,76708,226659,240967,0.8812451497507957,Very Low Update Pressure
+madhya_pradesh,umaria,5300,39261,29625,68886,74186,0.8571158978783059,Very Low Update Pressure
+madhya_pradesh,vidisha,10374,124890,49297,174187,184561,0.8875818834965133,Low Update Pressure
+maharashtra,ahilyanagar,12557,369417,235680,605097,617654,0.9593396950396177,Very High Update Pressure
+maharashtra,akola,4708,185085,62082,247167,251875,0.9626163771712158,Very High Update Pressure
+maharashtra,amravati,6915,338283,96191,434474,441389,0.9686670941051997,Very High Update Pressure
+maharashtra,beed,10753,265387,183069,448456,459209,0.953167294195018,Very High Update Pressure
+maharashtra,bhandara,1903,102204,37894,140098,142001,0.9731973718494941,Very High Update Pressure
+maharashtra,buldhana,8159,255238,137113,392351,400510,0.9592569473920751,Very High Update Pressure
+maharashtra,chandrapur,4475,213634,112071,325705,330180,0.9728935732024956,Very High Update Pressure
+maharashtra,chhatrapati_sambhajinagar,18614,318444,177507,495951,514565,0.927651511470854,Moderate Update Pressure
+maharashtra,dharashiv,4170,155698,112021,267719,271889,0.9693257174802953,Very High Update Pressure
+maharashtra,dhule,12605,197854,61908,259762,272367,0.9074410629775267,Low Update Pressure
+maharashtra,gadchiroli,2374,140665,52698,193363,195737,0.9757429612183696,Very High Update Pressure
+maharashtra,gondia,2976,98787,66601,165388,168364,0.9646480245183056,Very High Update Pressure
+maharashtra,hingoli,8190,117073,96554,213627,221817,0.9261553442702769,Moderate Update Pressure
+maharashtra,jalgaon,13260,417384,151076,568460,581720,0.9544110568658462,Very High Update Pressure
+maharashtra,jalna,5590,192692,79540,272232,277822,0.9597584064616913,Very High Update Pressure
+maharashtra,kolhapur,7480,271084,129934,401018,408498,0.9633780336745835,Very High Update Pressure
+maharashtra,latur,7607,246741,125627,372368,379975,0.9599605237186657,Very High Update Pressure
+maharashtra,mumbai,17481,451930,187358,639288,656769,0.9467666713867433,Very High Update Pressure
+maharashtra,mumbai_suburban,18635,179117,196618,375735,394370,0.905494839871187,Low Update Pressure
+maharashtra,nagpur,11828,350923,158901,509824,521652,0.9546517601772829,Very High Update Pressure
+maharashtra,nanded,11947,342540,236789,579329,591276,0.9595890920652961,Very High Update Pressure
+maharashtra,nandurbar,10656,201392,41644,243036,253692,0.9159926209734639,Moderate Update Pressure
+maharashtra,nashik,22368,576606,246100,822706,845074,0.947062624101558,Very High Update Pressure
+maharashtra,palghar,10699,157952,122107,280059,290758,0.9264061521952964,Moderate Update Pressure
+maharashtra,parbhani,6272,184026,116829,300855,307127,0.9591569611268302,Very High Update Pressure
+maharashtra,pune,31763,605762,438478,1044240,1076003,0.9409611311492626,High Update Pressure
+maharashtra,raigad,8751,171188,129081,300269,309020,0.9433628891333894,High Update Pressure
+maharashtra,ratnagiri,2603,139189,53009,192198,194801,0.9732752911946038,Very High Update Pressure
+maharashtra,sangli,7632,223013,89884,312897,320529,0.9523787239220164,Very High Update Pressure
+maharashtra,satara,6021,209569,98223,307792,313813,0.9616268287164649,Very High Update Pressure
+maharashtra,sindhudurg,1202,48377,27892,76269,77471,0.9689690335738534,Very High Update Pressure
+maharashtra,solapur,12292,334507,265546,600053,612345,0.9598526974173056,Very High Update Pressure
+maharashtra,thane,43688,571273,447254,1018527,1062215,0.9177417001266222,Moderate Update Pressure
+maharashtra,wardha,1953,126459,30342,156801,158754,0.9753958955364904,Very High Update Pressure
+maharashtra,washim,3418,139459,54869,194328,197746,0.9654304006149302,Very High Update Pressure
+maharashtra,yavatmal,7594,327187,196112,523299,530893,0.9713915986837273,Very High Update Pressure
+manipur,bishnupur,1117,30309,42055,72364,73481,0.9695975830486793,Very High Update Pressure
+manipur,chandel,759,8683,8989,17672,18431,0.9176387607834626,Moderate Update Pressure
+manipur,churachandpur,4638,18812,19273,38085,42723,0.7828804157011445,Very Low Update Pressure
+manipur,imphal_east,1132,59274,56020,115294,116426,0.9805541717485785,Very High Update Pressure
+manipur,imphal_west,1236,61311,59350,120661,121897,0.9797205837715448,Very High Update Pressure
+manipur,jiribam,145,1966,1997,3963,4108,0.9294060370009737,Moderate Update Pressure
+manipur,kakching,109,2047,3325,5372,5481,0.960226236088305,Very High Update Pressure
+manipur,pherzawl,11,2,176,178,189,0.8835978835978836,Low Update Pressure
+manipur,senapati,1501,22596,25510,48106,49607,0.9394843469671619,High Update Pressure
+manipur,tamenglong,960,7854,10431,18285,19245,0.9002338269680437,Low Update Pressure
+manipur,thoubal,1067,56043,59244,115287,116354,0.9816594186706087,Very High Update Pressure
+manipur,ukhrul,781,13690,15176,28866,29647,0.9473133875265626,Very High Update Pressure
+meghalaya,east_garo_hills,6052,2724,6345,9069,15121,0.19952384101580584,Very Low Update Pressure
+meghalaya,east_jaintia_hills,5133,2782,3394,6176,11309,0.09222742948094438,Very Low Update Pressure
+meghalaya,east_khasi_hills,28812,21004,16360,37364,66176,0.1292311411992263,Very Low Update Pressure
+meghalaya,eastern_west_khasi_hills,818,8,306,314,1132,-0.4452296819787986,Very Low Update Pressure
+meghalaya,north_garo_hills,3069,1243,3832,5075,8144,0.24631630648330058,Very Low Update Pressure
+meghalaya,ri_bhoi,9308,4524,8216,12740,22048,0.15566037735849056,Very Low Update Pressure
+meghalaya,south_garo_hills,4441,1285,4004,5289,9730,0.08715313463514902,Very Low Update Pressure
+meghalaya,south_west_garo_hills,4956,4915,7182,12097,17053,0.4187532985398464,Very Low Update Pressure
+meghalaya,south_west_khasi_hills,3446,3432,4740,8172,11618,0.40678257875710105,Very Low Update Pressure
+meghalaya,west_garo_hills,15875,33470,14970,48440,64315,0.5063360024877556,Very Low Update Pressure
+meghalaya,west_jaintia_hills,11820,6185,7460,13645,25465,0.07166699391321421,Very Low Update Pressure
+meghalaya,west_khasi_hills,15898,6054,10544,16598,32496,0.021541112752338748,Very Low Update Pressure
+mizoram,aizawl,1059,37677,12892,50569,51628,0.9589757495932439,Very High Update Pressure
+mizoram,champhai,1165,15968,6469,22437,23602,0.9012795525802898,Low Update Pressure
+mizoram,hnahthial,2,17,47,64,66,0.9393939393939394,High Update Pressure
+mizoram,khawzawl,36,8,35,43,79,0.08860759493670886,Very Low Update Pressure
+mizoram,kolasib,275,10931,3867,14798,15073,0.9635109135540371,Very High Update Pressure
+mizoram,lawngtlai,1642,13430,4395,17825,19467,0.8313042584887245,Very Low Update Pressure
+mizoram,lunglei,726,15289,7323,22612,23338,0.9377838717970691,High Update Pressure
+mizoram,mamit,250,13572,2445,16017,16267,0.9692629249400627,Very High Update Pressure
+mizoram,saitual,12,77,127,204,216,0.8888888888888888,Low Update Pressure
+mizoram,serchhip,102,7604,2455,10059,10161,0.9799232359019782,Very High Update Pressure
+nagaland,chumoukedima,184,651,1837,2488,2672,0.8622754491017964,Very Low Update Pressure
+nagaland,dimapur,3196,25223,8215,33438,36634,0.825517279030409,Very Low Update Pressure
+nagaland,kiphire,908,4310,1958,6268,7176,0.7469342251950948,Very Low Update Pressure
+nagaland,kohima,1621,13953,3308,17261,18882,0.828302086643364,Very Low Update Pressure
+nagaland,longleng,889,2674,820,3494,4383,0.594341775039927,Very Low Update Pressure
+nagaland,meluri,17,865,96,961,978,0.9652351738241309,Very High Update Pressure
+nagaland,mokokchung,490,8545,2696,11241,11731,0.9164606597902992,Moderate Update Pressure
+nagaland,mon,2223,14044,4662,18706,20929,0.7875674900855273,Very Low Update Pressure
+nagaland,niuland,31,285,373,658,689,0.9100145137880987,Low Update Pressure
+nagaland,noklak,354,747,447,1194,1548,0.5426356589147286,Very Low Update Pressure
+nagaland,peren,1454,4584,1804,6388,7842,0.6291762305534302,Very Low Update Pressure
+nagaland,phek,1043,8758,1468,10226,11269,0.8148904073120952,Very Low Update Pressure
+nagaland,shamator,247,170,433,603,850,0.4188235294117647,Very Low Update Pressure
+nagaland,tseminyu,32,186,91,277,309,0.7928802588996764,Very Low Update Pressure
+nagaland,tuensang,1579,9708,4239,13947,15526,0.79659925286616,Very Low Update Pressure
+nagaland,wokha,558,6927,1905,8832,9390,0.8811501597444089,Very Low Update Pressure
+nagaland,zunheboto,761,7963,2439,10402,11163,0.8636567231031085,Very Low Update Pressure
+odisha,angul,3220,66165,31291,97456,100676,0.9360324208351544,High Update Pressure
+odisha,balangir,5670,101046,42594,143640,149310,0.9240506329113924,Moderate Update Pressure
+odisha,balasore,7247,129510,55501,185011,192258,0.9246117196683623,Moderate Update Pressure
+odisha,bargarh,5239,81807,35471,117278,122517,0.9144771745961785,Moderate Update Pressure
+odisha,bhadrak,4891,97680,42651,140331,145222,0.9326410598945063,High Update Pressure
+odisha,boudh,1599,29152,10317,39469,41068,0.9221291516509205,Moderate Update Pressure
+odisha,cuttack,5402,141068,50671,191739,197141,0.9451965851852228,High Update Pressure
+odisha,deogarh,883,16252,7989,24241,25124,0.9297086451202038,High Update Pressure
+odisha,dhenkanal,3017,77647,29983,107630,110647,0.9454662123690656,High Update Pressure
+odisha,gajapati,2002,59008,21388,80396,82398,0.9514065875385325,Very High Update Pressure
+odisha,ganjam,8116,188862,98839,287701,295817,0.9451282380661017,High Update Pressure
+odisha,jagatsinghapur,3878,60495,20862,81357,85235,0.9090045169237989,Low Update Pressure
+odisha,jajpur,5115,97159,45707,142866,147981,0.9308695035173434,High Update Pressure
+odisha,jharsuguda,1182,25856,16786,42642,43824,0.9460569550930996,High Update Pressure
+odisha,kalahandi,4496,94924,47395,142319,146815,0.9387528522289956,High Update Pressure
+odisha,kandhamal,3081,59939,32045,91984,95065,0.9351811918161258,High Update Pressure
+odisha,kendrapara,4016,78386,39919,118305,122321,0.9343367042453872,High Update Pressure
+odisha,keonjhar,5426,102233,54438,156671,162097,0.9330524315687521,High Update Pressure
+odisha,khordha,5539,116947,46255,163202,168741,0.9343490912107905,High Update Pressure
+odisha,koraput,4502,105211,42260,147471,151973,0.940752633691511,High Update Pressure
+odisha,malkangiri,2870,48236,21072,69308,72178,0.9204743827759151,Moderate Update Pressure
+odisha,mayurbhanj,8154,156985,71521,228506,236660,0.9310910166483563,High Update Pressure
+odisha,nabarangpur,6674,90586,41836,132422,139096,0.904037499281072,Low Update Pressure
+odisha,nayagarh,2466,62032,23512,85544,88010,0.9439609135325531,High Update Pressure
+odisha,nuapada,2122,46953,18245,65198,67320,0.9369578134284017,High Update Pressure
+odisha,puri,3731,74923,32863,107786,111517,0.9330864352520244,High Update Pressure
+odisha,rayagada,3226,60299,32371,92670,95896,0.9327187786769,High Update Pressure
+odisha,sambalpur,2577,52322,30320,82642,85219,0.9395205294593929,High Update Pressure
+odisha,sonepur,1915,32830,17627,50457,52372,0.9268693194836936,Moderate Update Pressure
+odisha,sundargarh,4731,110447,50336,160783,165514,0.9428326304723468,High Update Pressure
+puducherry,karaikal,567,16246,6322,22568,23135,0.950983358547655,Very High Update Pressure
+puducherry,puducherry,2450,53648,26128,79776,82226,0.9404081434096271,High Update Pressure
+punjab,amritsar,9655,155008,99075,254083,263738,0.9267833986759587,Moderate Update Pressure
+punjab,barnala,1013,35539,13504,49043,50056,0.959525331628576,Very High Update Pressure
+punjab,bathinda,2704,96740,37420,134160,136864,0.9604863221884499,Very High Update Pressure
+punjab,faridkot,902,39412,14722,54134,55036,0.9672214550476051,Very High Update Pressure
+punjab,fatehgarh_sahib,1048,37399,15346,52745,53793,0.9610358225047869,Very High Update Pressure
+punjab,fazilka,1911,61395,31662,93057,94968,0.959754864796563,Very High Update Pressure
+punjab,ferozepur,1776,66810,34719,101529,103305,0.965616378684478,Very High Update Pressure
+punjab,gurdaspur,5120,119235,71972,191207,196327,0.9478421205437867,Very High Update Pressure
+punjab,hoshiarpur,4134,92764,46549,139313,143447,0.9423619873542145,High Update Pressure
+punjab,jalandhar,4118,141270,51131,192401,196519,0.9580905663065657,Very High Update Pressure
+punjab,kapurthala,3726,54103,13872,67975,71701,0.8960683951409325,Low Update Pressure
+punjab,ludhiana,17614,190927,119703,310630,328244,0.8926773985206127,Low Update Pressure
+punjab,malerkotla,865,13787,15099,28886,29751,0.9418506940943162,High Update Pressure
+punjab,mansa,1124,59039,23555,82594,83718,0.9731479490671062,Very High Update Pressure
+punjab,moga,1535,61344,24046,85390,86925,0.9646821972965199,Very High Update Pressure
+punjab,pathankot,1115,26596,14496,41092,42207,0.9471651621768901,Very High Update Pressure
+punjab,patiala,5150,119311,89052,208363,213513,0.9517593776491361,Very High Update Pressure
+punjab,rupnagar,1249,45467,13705,59172,60421,0.9586567584118104,Very High Update Pressure
+punjab,sangrur,2329,82470,29915,112385,114714,0.9593946684798716,Very High Update Pressure
+punjab,sri_muktsar_sahib,1649,65102,25242,90344,91993,0.9641494461535117,Very High Update Pressure
+punjab,tarn_taran,2939,80702,27415,108117,111056,0.947071747586803,Very High Update Pressure
+rajasthan,ajmer,12135,141858,124036,265894,278029,0.9127069478363767,Moderate Update Pressure
+rajasthan,alwar,23383,223449,144744,368193,391576,0.8805697999877419,Very Low Update Pressure
+rajasthan,balotra,1,6,503,509,510,0.996078431372549,Very High Update Pressure
+rajasthan,banswara,7263,93711,101294,195005,202268,0.9281843890284177,Moderate Update Pressure
+rajasthan,baran,6267,80256,78758,159014,165281,0.9241655120673278,Moderate Update Pressure
+rajasthan,barmer,15851,196765,111721,308486,324337,0.9022559868285148,Low Update Pressure
+rajasthan,beawar,1,8,510,518,519,0.9961464354527938,Very High Update Pressure
+rajasthan,bharatpur,17054,141155,105063,246218,263272,0.8704457747120848,Very Low Update Pressure
+rajasthan,bhilwara,11083,120019,97739,217758,228841,0.90313798663701,Low Update Pressure
+rajasthan,bikaner,13283,130871,81652,212523,225806,0.8823503361292437,Low Update Pressure
+rajasthan,bundi,4872,62857,48701,111558,116430,0.9163102293223396,Moderate Update Pressure
+rajasthan,chittorgarh,6343,64836,63889,128725,135068,0.9060769390233068,Low Update Pressure
+rajasthan,churu,12780,133224,76097,209321,222101,0.8849172223447891,Low Update Pressure
+rajasthan,dausa,6133,106330,50267,156597,162730,0.9246236096601733,Moderate Update Pressure
+rajasthan,deeg,69,158,1299,1457,1526,0.90956749672346,Low Update Pressure
+rajasthan,dholpur,8719,74817,78043,152860,161579,0.8920775595838568,Low Update Pressure
+rajasthan,dungarpur,6571,86558,95308,181866,188437,0.9302578580639683,High Update Pressure
+rajasthan,ganganagar,5504,102528,69218,171746,177250,0.9378956276445698,High Update Pressure
+rajasthan,hanumangarh,4940,96633,77237,173870,178810,0.9447458195850343,High Update Pressure
+rajasthan,jaipur,31146,355884,275340,631224,662370,0.9059558856832284,Low Update Pressure
+rajasthan,jaisalmer,2854,44977,21384,66361,69215,0.9175323268077729,Moderate Update Pressure
+rajasthan,jalore,14485,99806,67726,167532,182017,0.8408390425070186,Very Low Update Pressure
+rajasthan,jhalawar,7036,80112,81092,161204,168240,0.9163575844032334,Moderate Update Pressure
+rajasthan,jhunjhunu,7922,112333,57394,169727,177649,0.9108128950908815,Low Update Pressure
+rajasthan,jodhpur,22215,219033,139970,359003,381218,0.8834525127354952,Low Update Pressure
+rajasthan,karauli,8636,80971,58446,139417,148053,0.8833390745206109,Low Update Pressure
+rajasthan,kota,7525,93354,93066,186420,193945,0.9224006806053262,Moderate Update Pressure
+rajasthan,nagaur,17267,205368,103427,308795,326062,0.8940876275064251,Low Update Pressure
+rajasthan,pali,9114,155910,66337,222247,231361,0.9212140334801457,Moderate Update Pressure
+rajasthan,pratapgarh,3794,56287,48556,104843,108637,0.9301527104025332,High Update Pressure
+rajasthan,rajsamand,4512,61962,47170,109132,113644,0.9205941360740558,Moderate Update Pressure
+rajasthan,salumbar,1,1,213,214,215,0.9906976744186047,Very High Update Pressure
+rajasthan,sawai_madhopur,6744,81422,45155,126577,133321,0.8988306418343697,Low Update Pressure
+rajasthan,sikar,11400,161613,78337,239950,251350,0.9092898348915854,Low Update Pressure
+rajasthan,sirohi,10732,70150,41293,111443,122175,0.824317577245754,Very Low Update Pressure
+rajasthan,tonk,5915,79923,56628,136551,142466,0.9169626437185012,Moderate Update Pressure
+rajasthan,udaipur,14906,179778,127492,307270,322176,0.9074667262614223,Low Update Pressure
+sikkim,gangtok,709,9612,9380,18992,19701,0.928023958174712,Moderate Update Pressure
+sikkim,gyalshing,709,6875,4574,11449,12158,0.8833689751603883,Low Update Pressure
+sikkim,mangan,109,1225,1912,3137,3246,0.9328404189772027,High Update Pressure
+sikkim,namchi,680,5108,10860,15968,16648,0.9183085055261894,Moderate Update Pressure
+tamil_nadu,ariyalur,2412,77473,23351,100824,103236,0.9532721143787051,Very High Update Pressure
+tamil_nadu,chengalpattu,1253,6248,21533,27781,29034,0.9136874009781635,Moderate Update Pressure
+tamil_nadu,chennai,10043,233031,148368,381399,391442,0.948687161827295,Very High Update Pressure
+tamil_nadu,coimbatore,8986,219722,117738,337460,346446,0.9481246716660028,Very High Update Pressure
+tamil_nadu,cuddalore,8630,168111,81595,249706,258336,0.933187786448656,High Update Pressure
+tamil_nadu,dharmapuri,5739,104858,41380,146238,151977,0.9244754140429143,Moderate Update Pressure
+tamil_nadu,dindigul,6083,186123,57577,243700,249783,0.9512937229515219,Very High Update Pressure
+tamil_nadu,erode,6017,147495,68409,215904,221921,0.9457734959737925,High Update Pressure
+tamil_nadu,kallakurichi,1064,4818,10790,15608,16672,0.8723608445297505,Very Low Update Pressure
+tamil_nadu,kancheepuram,13437,233928,141301,375229,388666,0.9308557990665507,High Update Pressure
+tamil_nadu,kanniyakumari,4280,99180,59374,158554,162834,0.9474311261775796,Very High Update Pressure
+tamil_nadu,karur,4019,57807,27344,85151,89170,0.9098575754177414,Low Update Pressure
+tamil_nadu,krishnagiri,5075,120803,61909,182712,187787,0.945949400118219,High Update Pressure
+tamil_nadu,madurai,9938,213798,106052,319850,329788,0.9397309786893399,High Update Pressure
+tamil_nadu,mayiladuthurai,502,4309,3602,7911,8413,0.8806608819683822,Very Low Update Pressure
+tamil_nadu,nagapattinam,4047,80677,38029,118706,122753,0.9340627112982982,High Update Pressure
+tamil_nadu,namakkal,4873,120991,45816,166807,171680,0.9432315936626281,High Update Pressure
+tamil_nadu,perambalur,2130,57037,15661,72698,74828,0.9430694392473405,High Update Pressure
+tamil_nadu,pudukkottai,7045,130306,52057,182363,189408,0.9256103226896435,Moderate Update Pressure
+tamil_nadu,ramanathapuram,4005,100419,38291,138710,142715,0.94387415478401,High Update Pressure
+tamil_nadu,ranipet,111,637,1390,2027,2138,0.8961646398503275,Low Update Pressure
+tamil_nadu,salem,10249,240644,106371,347015,357264,0.9426250615791124,High Update Pressure
+tamil_nadu,sivaganga,4446,95190,34296,129486,133932,0.9336080996326495,High Update Pressure
+tamil_nadu,tenkasi,1268,10203,10020,20223,21491,0.8819971150714252,Low Update Pressure
+tamil_nadu,thanjavur,7372,169567,76835,246402,253774,0.9419010615744717,High Update Pressure
+tamil_nadu,the_nilgiris,1714,44104,15273,59377,61091,0.9438869882634103,High Update Pressure
+tamil_nadu,theni,3473,86722,38776,125498,128971,0.9461429313566616,High Update Pressure
+tamil_nadu,thiruvallur,12040,240690,150231,390921,402961,0.940242355960006,High Update Pressure
+tamil_nadu,thiruvarur,4166,72802,37782,110584,114750,0.9273899782135077,Moderate Update Pressure
+tamil_nadu,thoothukkudi,5321,139867,44699,184566,189887,0.9439561423372848,High Update Pressure
+tamil_nadu,tiruchirappalli,9932,193570,73681,267251,277183,0.9283361533715992,Moderate Update Pressure
+tamil_nadu,tirunelveli,9675,214773,79890,294663,304338,0.9364193758255623,High Update Pressure
+tamil_nadu,tirupathur,1052,12170,9445,21615,22667,0.9071778356200644,Low Update Pressure
+tamil_nadu,tiruppur,6192,148772,85946,234718,240910,0.9485949109626002,Very High Update Pressure
+tamil_nadu,tiruvannamalai,7266,141455,65218,206673,213939,0.9320740958871454,High Update Pressure
+tamil_nadu,vellore,9633,191803,89400,281203,290836,0.9337564813159306,High Update Pressure
+tamil_nadu,viluppuram,11894,206735,75356,282091,293985,0.9190843070224671,Moderate Update Pressure
+tamil_nadu,virudhunagar,5407,121294,57442,178736,184143,0.9412739012615196,High Update Pressure
+telangana,adilabad,4406,132321,74188,206509,210915,0.9582201360737738,Very High Update Pressure
+telangana,bhadradri_kothagudem,3211,21603,33729,55332,58543,0.890302854312215,Low Update Pressure
+telangana,hanumakonda,1030,9017,18975,27992,29022,0.9290193646199435,Moderate Update Pressure
+telangana,hyderabad,30830,334285,251700,585985,616815,0.9000348564804682,Low Update Pressure
+telangana,jogulamba_gadwal,1844,11330,33576,44906,46750,0.9211122994652406,Moderate Update Pressure
+telangana,kamareddy,2008,15241,24445,39686,41694,0.9036791864536864,Low Update Pressure
+telangana,karimnagar,6549,154700,88987,243687,250236,0.947657411403635,Very High Update Pressure
+telangana,khammam,5021,103128,84971,188099,193120,0.9480012427506214,Very High Update Pressure
+telangana,kumuram_bheem_asifabad,1106,9677,27458,37135,38241,0.9421563243639026,High Update Pressure
+telangana,mahabubabad,1503,10180,23410,33590,35093,0.9143418915453224,Moderate Update Pressure
+telangana,mancherial,1094,12409,27123,39532,40626,0.9461428641756511,High Update Pressure
+telangana,medak,8950,149111,67462,216573,225523,0.920628938068401,Moderate Update Pressure
+telangana,medchal_malkajgiri,5311,35599,87280,122879,128190,0.9171386223574381,Moderate Update Pressure
+telangana,mulugu,937,5387,11698,17085,18022,0.8960159804683165,Low Update Pressure
+telangana,nagarkurnool,1361,12454,20170,32624,33985,0.919905840812123,Moderate Update Pressure
+telangana,nalgonda,7828,170642,106086,276728,284556,0.9449809527825805,High Update Pressure
+telangana,narayanpet,1310,6287,16732,23019,24329,0.8923095893789305,Low Update Pressure
+telangana,nirmal,1401,13324,33846,47170,48571,0.9423112556875501,High Update Pressure
+telangana,nizamabad,7101,128175,72310,200485,207586,0.9315849816461611,High Update Pressure
+telangana,peddapalli,588,6427,9927,16354,16942,0.9305867075906032,High Update Pressure
+telangana,rajanna_sircilla,888,8085,11165,19250,20138,0.9118085212036945,Moderate Update Pressure
+telangana,ranga_reddy,19965,307139,224996,532135,552100,0.9276761456257925,Moderate Update Pressure
+telangana,sangareddy,2703,22079,37288,59367,62070,0.9129047849202513,Moderate Update Pressure
+telangana,siddipet,1876,16209,35961,52170,54046,0.9305776560707545,High Update Pressure
+telangana,suryapet,2042,20093,45789,65882,67924,0.9398739767975973,High Update Pressure
+telangana,vikarabad,2593,14223,60549,74772,77365,0.9329671039875913,High Update Pressure
+telangana,wanaparthy,1667,9974,25180,35154,36821,0.9094538442736482,Low Update Pressure
+telangana,warangal,5413,159131,96129,255260,260673,0.9584690397547886,Very High Update Pressure
+telangana,yadadri_bhuvanagiri,1586,12674,39872,52546,54132,0.9414024975984631,High Update Pressure
+tripura,dhalai,1452,35615,15817,51432,52884,0.9450873610165645,High Update Pressure
+tripura,gomati,679,14702,9761,24463,25142,0.9459867950043751,High Update Pressure
+tripura,khowai,339,9166,3511,12677,13016,0.9479102642901045,Very High Update Pressure
+tripura,north_tripura,1488,47498,14931,62429,63917,0.9534396170033012,Very High Update Pressure
+tripura,sepahijala,1728,19625,15325,34950,36678,0.9057745787665631,Low Update Pressure
+tripura,south_tripura,2158,57556,30679,88235,90393,0.9522529399400396,Very High Update Pressure
+tripura,unakoti,639,15733,3643,19376,20015,0.9361478890831876,High Update Pressure
+tripura,west_tripura,2802,92260,44346,136606,139408,0.9598014461150006,Very High Update Pressure
+uttar_pradesh,agra,29910,235048,175953,411001,440911,0.8643263606487477,Very Low Update Pressure
+uttar_pradesh,aligarh,26192,199500,186462,385962,412154,0.8729018764830622,Very Low Update Pressure
+uttar_pradesh,ambedkar_nagar,8002,87220,75756,162976,170978,0.9063973142743511,Low Update Pressure
+uttar_pradesh,amethi,7197,93271,76280,169551,176748,0.9185620205037681,Moderate Update Pressure
+uttar_pradesh,amroha,8226,92849,90908,183757,191983,0.91430491241412,Moderate Update Pressure
+uttar_pradesh,auraiya,3733,63182,51799,114981,118714,0.9371093552571726,High Update Pressure
+uttar_pradesh,ayodhya,8619,102307,85256,187563,196182,0.9121326115545769,Moderate Update Pressure
+uttar_pradesh,azamgarh,20573,173398,159789,333187,353760,0.8836895070104025,Low Update Pressure
+uttar_pradesh,baghpat,6840,58037,54921,112958,119798,0.8858077764236465,Low Update Pressure
+uttar_pradesh,bahraich,39338,181078,129697,310775,350113,0.7752839797436828,Very Low Update Pressure
+uttar_pradesh,ballia,9976,133005,104948,237953,247929,0.9195253479826886,Moderate Update Pressure
+uttar_pradesh,balrampur,12324,102112,78076,180188,192512,0.8719664228723404,Very Low Update Pressure
+uttar_pradesh,banda,10591,92491,69435,161926,172517,0.8772178973666364,Very Low Update Pressure
+uttar_pradesh,bareilly,27811,234808,241742,476550,504361,0.8897178806450142,Low Update Pressure
+uttar_pradesh,basti,10119,109201,84810,194011,204130,0.9008572968206535,Low Update Pressure
+uttar_pradesh,bhadohi,5050,74723,61240,135963,141013,0.9283753980129492,Moderate Update Pressure
+uttar_pradesh,bijnor,16851,217048,226859,443907,460758,0.9268553123331553,Moderate Update Pressure
+uttar_pradesh,budaun,15529,110318,171339,281657,297186,0.8954930582194316,Low Update Pressure
+uttar_pradesh,bulandshahr,17070,181052,175420,356472,373542,0.9086046548982444,Low Update Pressure
+uttar_pradesh,chandauli,9566,90545,93604,184149,193715,0.901236352373332,Low Update Pressure
+uttar_pradesh,chitrakoot,5401,62732,44547,107279,112680,0.9041356052538161,Low Update Pressure
+uttar_pradesh,deoria,10257,138613,109251,247864,258121,0.9205256449494617,Moderate Update Pressure
+uttar_pradesh,etah,11264,87429,61891,149320,160584,0.8597120510137997,Very Low Update Pressure
+uttar_pradesh,etawah,7154,79095,62080,141175,148329,0.9035387550647547,Low Update Pressure
+uttar_pradesh,farrukhabad,5870,77196,70138,147334,153204,0.9233701469935511,Moderate Update Pressure
+uttar_pradesh,fatehpur,12333,117914,107120,225034,237367,0.8960849654754031,Low Update Pressure
+uttar_pradesh,firozabad,12300,113767,139201,252968,265268,0.9072635975692507,Low Update Pressure
+uttar_pradesh,gautam_buddha_nagar,18957,89441,153991,243432,262389,0.8555046133793719,Very Low Update Pressure
+uttar_pradesh,ghaziabad,23070,192022,239761,431783,454853,0.8985606338751201,Low Update Pressure
+uttar_pradesh,ghazipur,11288,145692,127840,273532,284820,0.9207359033775718,Moderate Update Pressure
+uttar_pradesh,gonda,15267,152075,125916,277991,293258,0.8958800782928343,Low Update Pressure
+uttar_pradesh,gorakhpur,19969,178164,158865,337029,356998,0.8881282248079821,Low Update Pressure
+uttar_pradesh,hamirpur,3465,54687,42440,97127,100592,0.9311078415778591,High Update Pressure
+uttar_pradesh,hapur,7262,56755,44282,101037,108299,0.8658898050766859,Very Low Update Pressure
+uttar_pradesh,hardoi,25193,205097,143951,349048,374241,0.865364831752801,Very Low Update Pressure
+uttar_pradesh,hathras,6493,80404,60658,141062,147555,0.9119921385246179,Moderate Update Pressure
+uttar_pradesh,jalaun,5557,74682,60673,135355,140912,0.9211280799364142,Moderate Update Pressure
+uttar_pradesh,jaunpur,15853,183080,155741,338821,354674,0.9106052318467099,Low Update Pressure
+uttar_pradesh,jhansi,7160,112005,71841,183846,191006,0.9250285331350847,Moderate Update Pressure
+uttar_pradesh,kannauj,6638,71653,59687,131340,137978,0.9037817623099335,Low Update Pressure
+uttar_pradesh,kanpur_dehat,8017,75626,72089,147715,155732,0.8970410705571109,Low Update Pressure
+uttar_pradesh,kanpur_nagar,24708,181438,170125,351563,376271,0.8686691241153318,Very Low Update Pressure
+uttar_pradesh,kasganj,6341,74519,49707,124226,130567,0.9028697909885346,Low Update Pressure
+uttar_pradesh,kaushambi,7463,97595,77012,174607,182070,0.9180205415499533,Moderate Update Pressure
+uttar_pradesh,kushinagar,12187,147905,167395,315300,327487,0.9255726181497281,Moderate Update Pressure
+uttar_pradesh,lalitpur,4753,75520,46802,122322,127075,0.9251937831988983,Moderate Update Pressure
+uttar_pradesh,lucknow,25514,217390,209476,426866,452380,0.8872010256863698,Low Update Pressure
+uttar_pradesh,mahoba,3020,46340,32304,78644,81664,0.9260384012539185,Moderate Update Pressure
+uttar_pradesh,mahrajganj,17890,103126,108942,212068,229958,0.8444063698588438,Very Low Update Pressure
+uttar_pradesh,mainpuri,11726,73791,69441,143232,154958,0.848655764787878,Very Low Update Pressure
+uttar_pradesh,mathura,11746,119417,109289,228706,240452,0.902300667077005,Low Update Pressure
+uttar_pradesh,mau,7579,87861,87700,175561,183140,0.9172327181391285,Moderate Update Pressure
+uttar_pradesh,meerut,24027,173652,167219,340871,364898,0.8683084039923485,Very Low Update Pressure
+uttar_pradesh,mirzapur,7645,108192,87276,195468,203113,0.9247217066362075,Moderate Update Pressure
+uttar_pradesh,moradabad,21545,160474,163505,323979,345524,0.8752908625739456,Very Low Update Pressure
+uttar_pradesh,muzaffarnagar,11949,169851,135633,305484,317433,0.9247148217104082,Moderate Update Pressure
+uttar_pradesh,pilibhit,13635,135630,136263,271893,285528,0.9044927292594772,Low Update Pressure
+uttar_pradesh,pratapgarh,10308,131960,104730,236690,246998,0.9165337371152803,Moderate Update Pressure
+uttar_pradesh,prayagraj,16114,279133,215322,494455,510569,0.9368782671881764,High Update Pressure
+uttar_pradesh,rae_bareli,9732,128747,108267,237014,246746,0.9211172622859134,Moderate Update Pressure
+uttar_pradesh,rampur,20110,124942,155518,280460,300570,0.8661875769371528,Very Low Update Pressure
+uttar_pradesh,saharanpur,19166,190716,167814,358530,377696,0.8985109717868338,Low Update Pressure
+uttar_pradesh,sambhal,8677,103347,99589,202936,211613,0.9179918057964302,Moderate Update Pressure
+uttar_pradesh,sant_kabir_nagar,6169,90540,79206,169746,175915,0.9298638547025552,High Update Pressure
+uttar_pradesh,shahjahanpur,24291,154488,149472,303960,328251,0.8519974044252722,Very Low Update Pressure
+uttar_pradesh,shamli,8200,103134,75614,178748,186948,0.9122750711427776,Moderate Update Pressure
+uttar_pradesh,siddharthnagar,18354,107280,93643,200923,219277,0.8325953018328416,Very Low Update Pressure
+uttar_pradesh,sitapur,30854,264311,169322,433633,464487,0.8671480579650238,Very Low Update Pressure
+uttar_pradesh,sonbhadra,5034,103755,72077,175832,180866,0.9443344796700319,High Update Pressure
+uttar_pradesh,sultanpur,11434,98465,82621,181086,192520,0.8812175358404322,Very Low Update Pressure
+uttar_pradesh,unnao,19148,146390,124543,270933,290081,0.8679817016626391,Very Low Update Pressure
+uttar_pradesh,varanasi,23334,182411,159498,341909,365243,0.8722275307124298,Very Low Update Pressure
+uttarakhand,almora,1367,32409,15786,48195,49562,0.9448367701061297,High Update Pressure
+uttarakhand,bageshwar,742,21495,6928,28423,29165,0.9491170924052803,Very High Update Pressure
+uttarakhand,chamoli,1090,28402,11790,40192,41282,0.9471924809844484,Very High Update Pressure
+uttarakhand,champawat,866,23214,12505,35719,36585,0.9526581932485991,Very High Update Pressure
+uttarakhand,dehradun,9485,129280,82622,211902,221387,0.9143129452045513,Moderate Update Pressure
+uttarakhand,haridwar,6101,135531,70087,205618,211719,0.9423670053230934,High Update Pressure
+uttarakhand,nainital,3951,69361,49100,118461,122412,0.9354475051465543,High Update Pressure
+uttarakhand,pauri_garhwal,1912,44096,21534,65630,67542,0.9433833762695804,High Update Pressure
+uttarakhand,pithoragarh,1220,30183,14702,44885,46105,0.947077323500705,Very High Update Pressure
+uttarakhand,rudraprayag,956,24178,7834,32012,32968,0.9420043678718758,High Update Pressure
+uttarakhand,tehri_garhwal,2781,57281,25868,83149,85930,0.9352728965436984,High Update Pressure
+uttarakhand,udham_singh_nagar,6095,144867,134865,279732,285827,0.9573518247051538,Very High Update Pressure
+uttarakhand,uttarkashi,1132,24468,10021,34489,35621,0.9364419864686562,High Update Pressure
+west_bengal,alipurduar,3673,7625,10834,18459,22132,0.6680824146032893,Very Low Update Pressure
+west_bengal,bankura,11355,108049,145827,253876,265231,0.9143765246143928,Moderate Update Pressure
+west_bengal,birbhum,15509,110194,151363,261557,277066,0.8880483350537417,Low Update Pressure
+west_bengal,cooch_behar,18486,58365,193946,252311,270797,0.863469683932983,Very Low Update Pressure
+west_bengal,dakshin_dinajpur,7969,46784,91097,137881,145850,0.8907233459033254,Low Update Pressure
+west_bengal,darjeeling,8045,42688,61908,104596,112641,0.8571568079118616,Very Low Update Pressure
+west_bengal,hooghly,15566,161308,183476,344784,360350,0.9136062161787152,Moderate Update Pressure
+west_bengal,howrah,14282,127162,147773,274935,289217,0.9012367876023886,Low Update Pressure
+west_bengal,jalpaiguri,10654,80643,187511,268154,278808,0.9235746463516111,Moderate Update Pressure
+west_bengal,jhargram,962,4006,7258,11264,12226,0.8426304596761001,Very Low Update Pressure
+west_bengal,kalimpong,513,723,2381,3104,3617,0.7163395078794581,Very Low Update Pressure
+west_bengal,kolkata,10362,91012,106499,197511,207873,0.9003045128515968,Low Update Pressure
+west_bengal,malda,17586,109535,219034,328569,346155,0.8983923386922044,Low Update Pressure
+west_bengal,murshidabad,35911,219079,371953,591032,626943,0.8854409412019912,Low Update Pressure
+west_bengal,nadia,17716,127801,192343,320144,337860,0.8951281595927307,Low Update Pressure
+west_bengal,north_24_parganas,36380,238569,310222,548791,585171,0.8756602770814002,Very Low Update Pressure
+west_bengal,paschim_bardhaman,1276,10105,210331,220436,221712,0.9884895720574439,Very High Update Pressure
+west_bengal,paschim_medinipur,20951,167807,245050,412857,433808,0.9034088813484307,Low Update Pressure
+west_bengal,purba_bardhaman,20655,208151,24451,232602,253257,0.8368850614198226,Very Low Update Pressure
+west_bengal,purba_medinipur,16441,158073,128700,286773,303214,0.8915551392745718,Low Update Pressure
+west_bengal,purulia,14002,95971,162347,258318,272320,0.8971650998824912,Low Update Pressure
+west_bengal,south_24_parganas,38141,258018,443300,701318,739459,0.8968407984756424,Low Update Pressure
+west_bengal,uttar_dinajpur,38905,92951,275133,368084,406989,0.8088154716712246,Very Low Update Pressure

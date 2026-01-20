@@ -1,0 +1,16 @@
+state,district,total_enrollment,total_biometric_updates,total_demographic_updates,total_updates,total_activity,drm_score,category
+rajasthan,beawar,1,8,510,518,519,0.9961464354527938,Very High Update Pressure
+rajasthan,balotra,1,6,503,509,510,0.996078431372549,Very High Update Pressure
+rajasthan,salumbar,1,1,213,214,215,0.9906976744186047,Very High Update Pressure
+west_bengal,paschim_bardhaman,1276,10105,210331,220436,221712,0.9884895720574439,Very High Update Pressure
+manipur,thoubal,1067,56043,59244,115287,116354,0.9816594186706087,Very High Update Pressure
+manipur,imphal_east,1132,59274,56020,115294,116426,0.9805541717485785,Very High Update Pressure
+mizoram,serchhip,102,7604,2455,10059,10161,0.9799232359019782,Very High Update Pressure
+manipur,imphal_west,1236,61311,59350,120661,121897,0.9797205837715448,Very High Update Pressure
+chhattisgarh,balod,1678,81215,59734,140949,142627,0.9764700933203391,Very High Update Pressure
+maharashtra,gadchiroli,2374,140665,52698,193363,195737,0.9757429612183696,Very High Update Pressure
+maharashtra,wardha,1953,126459,30342,156801,158754,0.9753958955364904,Very High Update Pressure
+andhra_pradesh,srikakulam,4300,192607,135699,328306,332606,0.9741435812943844,Very High Update Pressure
+maharashtra,ratnagiri,2603,139189,53009,192198,194801,0.9732752911946038,Very High Update Pressure
+maharashtra,bhandara,1903,102204,37894,140098,142001,0.9731973718494941,Very High Update Pressure
+punjab,mansa,1124,59039,23555,82594,83718,0.9731479490671062,Very High Update Pressure
