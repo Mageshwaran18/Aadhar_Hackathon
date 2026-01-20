@@ -15,12 +15,14 @@ PARTICIPATION
 
 
 Invisible Citizens 
+
 **Invisible Citizens** is a data-driven analysis that evaluates the health of the Aadhaar ecosystem at the pincode level.
 It compares child enrollment activity with demographic update intensity to identify regions where system engagement is unusually weak.
 By applying population thresholds and socio-geographic enrichment, the project detects early warning signals of potential digital exclusion.
 The results help policymakers prioritize targeted interventions in tribal, remote, low-literacy, and migration-affected areas.
 
 Aadhaar Demand Response Mismatch 
+
 This project analyzes Aadhaar data from 2025 to identify districts where update demand significantly outweighs new enrollments.
 It introduces the Demand–Response Mismatch (DRM) Score to measure Aadhaar service pressure in a fair, district-level manner.
 Using data-driven thresholds, districts are classified by degree of update pressure rather than arbitrary labels.
@@ -38,3 +40,10 @@ These insights enable targeted, immediate policy action to improve service deliv
 - Since we do have the one year data, we shall predict in which area the stafss needed extra
 - We need not to spend extra money for extra staff since we shift the staffs from area where stress index is 0 or near to zero.
 - thus we reduce the idle time
+
+
+contributors 
+
+Mageshwaran P [mageshwaranp18@gmail.com]
+Arun Kumar R [ arun700101@gmail.com ]
+Dharshini M V [ dharshiniraji1520@gmail.com]
